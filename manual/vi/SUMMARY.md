@@ -1,0 +1,23 @@
+# Tóm tắt
+
+* [Giới thiệu](README)
+* [Thông tin người dùng](user-profile)
+* [Tác giả](authoring)
+* [Phản biện](reviewing)
+* [Quản lý các bài báo](submissions)
+* [Quy trình biên tập](editorial-workflow)
+   * [Giai đoạn gửi bài báo](editorial-workflow/submission)
+   * [Giai đoạn phản biện](editorial-workflow/review)
+   * [Biên soạn](editorial-workflow/copyediting)
+   * [Xuất bản](editorial-workflow/production)
+* [Vấn đề quản lý](issue-management)
+* [Nhiệm vụ](tasks)
+* Cài đặt
+   * [Cài đặt tạp chí](settings/journal-settings)
+   * [Cài đặt Website](settings/website-settings)
+   * [Cài đặt quy trình làm việc](settings/workflow-settings)
+   * [Cài đặt phân phối](settings/distribution-settings)
+* [Người dùng và quyền](users-and-roles)
+* [Công cụ](tools)
+* [Thống kê](statistics)
+* [Quản lý](administration)
