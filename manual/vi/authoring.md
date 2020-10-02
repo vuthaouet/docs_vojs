@@ -1,33 +1,33 @@
 # Tác giải
 
 1. [Hoạt động của tác giả](authoring#author-actions)
-1. [Thực hiên một bài báo](authoring#make-submission)
+1. [Thực hiên gửi một bài báo](authoring#make-submission)
 1. [Theo dõi bài báo của bạn](authoring#track-submission)
 
-Khi đăng nhập vào OJS với tư cách là tác giả, bạn sẽ thấy hai bảng: Nhiệm vụ của tôi và Bài báo của tôi. Nếu bạn chưa bao giờ gửi cho tạp chí này, cả hai bảng sẽ trống.
+Khi đăng nhập vào VOJS với tư cách là tác giả, bạn sẽ thấy hai bảng: Nhiệm vụ của tôi và Bài báo của tôi. Nếu bạn chưa bao giờ gửi cho tạp chí này, cả hai bảng sẽ trống.
 
 ## <a name="author-actions"></a>Hoạt động của tác giả
 
-Ở bên phải màn hình, hãy chọn Gửi bài mới để bắt đầu gửi một bài báo mới.
+Ở bên phải màn hình, hãy chọn "Gửi bài mới" để bắt đầu gửi một bài báo mới.
 
-## <a name="make-submission"></a>Thực hiên một bài báo
+## <a name="make-submission"></a>Thực hiện gửi một bài báo
 
-*Nếu bạn đã đăng nhập nhưng không thấy giao diện biên tập, có thể bạn đang xem trang web hướng tới người đọc. Nếu đúng như vậy, hãy tìm liên kết hồ sơ người dùng của bạn và nhấp vào liên kết Gửi xuất hiện bên dưới nó. Mỗi trang web có thể khác nhau.*
+*Nếu bạn đã đăng nhập nhưng không thấy giao diện biên tập, bạn có thể quay trở lại trang chủ và sẽ có một nút gửi bài tại đó.*
 
 Tạo một bài báo mới là một quy trình 5 bước dễ thực hiện. Làm theo hướng dẫn trên màn hình để hoàn tất quá trình:
 
 ### <a name="start"></a>Bắt đầu
 
-1. Chọn chuyên mục thích hợp với bài báo của bạn
+1. Chọn chuyên mục phù hợp với bài báo của bạn
 1. Đọc và đồng ý với yêu cầu gửi.
 1. Thêm bất kỳ ghi chú cho biên tập viên (tùy chọn).
 1. Xem lại tuyên bố về quyền riêng tư để đảm bảo bạn đồng ý.
 
-### <a name="upload-submission"></a>Tải lên bài gửi
+### <a name="upload-submission"></a>Tải lên tệp của bài gửi
 
 Tải lên tệp của bài báo
 
-**Tải tệp**: Mỗi tệp cần được gán như một thành phần cụ thể, giúp tổ chức các tệp cho các dự án lớn.
+**Tải tệp**: Mỗi tệp nên được gán như một thành phần cụ thể, giúp tổ chức các tệp dễ dàng hơn cho biên tập viên xem xét.
 
 Bạn sẽ tải lên từng tệp của mình cùng một lúc. Bạn sẽ có cơ hội tải lên nhiều tệp hơn trong giây lát.
 
@@ -45,13 +45,15 @@ Thêm chi tiết bài báo của bạn, chẳng hạn như tiêu đề và tóm 
 
 Bạn có thể thêm các tác giả khác bằng cách sử dụng liên kết thêm tác giả
 
+Hãy nhớ rằng, các từ khóa của bài báo phải được nhập ngăn cách bởi dấu cách, rất nhiều tác giả đã bỏ qua bước này.
+
 ### <a name="confirmation"></a>Xác nhận
 
-Hãy dành một chút thời gian để xác nhận các chi tiết bạn đã nhập. Tại thời điểm này, bạn có thể quay lại bất kỳ bước nào trước đó để thay đổi các chi tiết bạn đã nhập.
+Hãy dành một chút thời gian để kiểm tra các chi tiết bạn đã nhập. Tại thời điểm này, bạn có thể quay lại bất kỳ bước nào trước đó để thay đổi các nội dung bạn đã nhập.
 
 ### <a name="next-steps"></a>Bước tiếp theo
 
-Bạn đã hoàn thnahf! Nếu bạn muốn đọc thêm về cách theo dõi bài nộp của mình, hãy đọc phần tiếp theo.
+Bạn đã hoàn thành! Nếu bạn muốn đọc thêm về cách theo dõi bài nộp của mình, hãy đọc phần tiếp theo.
 
 ## <a name="track-submission"></a>Theo dõi bài báo của bạn
 
@@ -61,12 +63,12 @@ Tại đây, bạn sẽ thấy các bài nộp của mình được liệt kê v
 
 ### <a name="track-submission-discussions"></a>Bảng thảo luận
 
-Trong mỗi giai đoạn, bạn sẽ có quyền truy cập vào một khu vực thảo luận. Nếu một biên tập viên hoặc trợ lý biên tập cần thêm thông tin từ bạn, họ sẽ có thể mở một cuộc thảo luận. Khi điều đó xảy ra, bạn sẽ được thông báo qua email để bạn có thể trả lời.
+Trong mỗi giai đoạn, bạn sẽ có quyền truy cập vào một khu vực thảo luận hay phiên phản biện. Nếu một biên tập viên hoặc trợ lý biên tập cần thêm thông tin từ bạn, họ sẽ có thể mở một cuộc thảo luận. Khi điều đó xảy ra, bạn sẽ được thông báo qua email để bạn có thể trả lời.
 
 *Bạn sẽ không thể bắt đầu thảo luận trên hầu hết các giai đoạn, nhưng chúng sẽ xuất hiện nếu một giai đoạn đã được người biên tập bắt đầu.*
 
 ### <a name="track-submission-review"></a>Giai đoạn phản biện
 
-Trong giai đoạn phản biện, bạn sẽ thấy cập nhật trạng thái ở trên cùng, cập nhật này sẽ thông báo cho bạn khi người đánh giá được lựa chọn, chỉ định và gửi đánh giá của họ.
+Trong giai đoạn phản biện, bạn sẽ thấy cập nhật trạng thái ở trên cùng, cập nhật này sẽ thông báo cho bạn khi người phản biện được lựa chọn, chỉ định và gửi đánh giá của họ.
 
-Trong giai đoạn phản biện, bạn có thể được yêu cầu gửi các bản sửa đổi giải quyết bất kỳ mối quan tâm nào được nêu ra. Nếu cần, bạn sẽ tìm thấy bảng điều chỉnh nơi bạn có thể tải lên các tệp mới cho biên tập viên.
+Trong giai đoạn phản biện, bạn có thể được yêu cầu gửi các bản sửa đổi giải quyết các vấn đề được nêu ra. Nếu cần, bạn sẽ tìm thấy bảng điều chỉnh nơi bạn có thể tải lên các tệp mới cho biên tập viên.

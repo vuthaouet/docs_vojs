@@ -6,24 +6,23 @@
 1. [Lưu trữ](submissions#archives)
 1. [Tìm bài báo nhanh chóng](submissions#find-quickly)
 
-Truy cập bất kỳ nội dung gửi nào hiện đang được xem xét từ trang bài báo.
 Người dùng biên tập và quản trị cũng có quyền truy cập vào tất cả các bài gửi đã xuất bản và được lưu trữ, đồng thời truy cập nhanh vào các loại bài gửi phổ biến để giúp quản lý hàng đợi biên tập của họ.
 ## <a name="new-submission"></a>Bắt đầu gửi một bài báo mới
 
-Bạn có thể bắt đầu một bài gửi mới bằng cách nhấp vào nút **Gửi bài mới** xuất hiện phía trên bên phải mỗi danh sách bài báo.
+Bạn có thể bắt đầu một bài gửi mới bằng cách nhấp vào nút **Gửi bài mới** xuất hiện phía trên bên phải trang web.
 ## <a name="my-queue"></a>Xét duyệt
 
-Tab này cung cấp thông tin về các bài nộp hiện được chỉ định cho bạn. Sử dụng tab này để cập nhật các hoạt động hàng ngày của bạn.
+Thẻ này cung cấp thông tin về các bài nộp hiện được chỉ định cho bạn. Sử dụng thẻ này để cập nhật các hoạt động hàng ngày của bạn.
 
-Người chỉnh sửa sẽ thấy thông báo khi phân công đánh giá quá hạn. Người đánh giá có thể theo dõi ngày đến hạn cho các phân công của họ. Và các tác giả có thể theo dõi các bài báo của họ đang ở giai đoạn nào.
+Biên tập viên sẽ thấy thông báo khi phân công đánh giá quá hạn. Người phản biện có thể theo dõi ngày đến hạn cho các phân công của họ. Và các tác giả có thể theo dõi các bài báo của họ đang ở giai đoạn nào.
 
 ## <a name="unassigned"></a>Chưa phân công
 
-Người quản lý tạp chí có thể xem bất kỳ bài gửi mới nào chưa được chỉ định biên tập viên hoặc biên tập viên chuyên mục. Sử dụng tab này để đảm bảo mỗi bài nộp đều có một người chỉnh sửa được chỉ định để quản lý quy trình làm việc.
+Người quản lý tạp chí có thể xem bất kỳ bài gửi mới nào chưa được chỉ định biên tập viên hoặc biên tập viên chuyên mục. Sử dụng thẻ này để đảm bảo mỗi bài nộp đều có một người chỉnh sửa được chỉ định để quản lý quy trình làm việc.
 
 ## <a name="active"></a>Tất cả
 
-Tìm bất kỳ bài gửi nào trong hệ thống chưa được xuất bản hoặc bị từ chối. Chỉ biên tập viên và quản trị mới có quyền truy cập vào tab này.
+Tìm bất kỳ bài gửi nào trong hệ thống chưa được xuất bản hoặc bị từ chối. Chỉ biên tập viên và quản trị mới có quyền truy cập vào thẻ này.
 ## <a name="archives"></a>Lưu trữ
 
 Tìm các bài đã được xuất bản hoặc bị từ chối. Có thể tìm thấy bất kỳ bài báo nào kể cả khi bài báo không còn trải qua quy trình biên tập tại đây.

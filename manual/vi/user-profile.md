@@ -1,6 +1,6 @@
 # Thông tin người dùng
 
-Chương này bao gồm hồ sơ người dùng, bao gồm đăng ký, đăng nhập và thực hiện các thay đổi.
+Phần này bao gồm hồ sơ người dùng, bao gồm đăng ký, đăng nhập và thực hiện các thay đổi.
 
 Sau khi đăng nhập, bạn có thể định cấu hình thông tin người dùng và cài đặt thông báo của mình. Để xem hồ sơ của bạn, hãy tìm liên kết hiển thị tên người dùng của bạn ở trên cùng bên phải của trang web khi đăng nhập.
 

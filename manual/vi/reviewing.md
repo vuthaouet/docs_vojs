@@ -1,22 +1,22 @@
 # Phản biện
 
-1. [Đăng ký với tư cách là người đánh giá](reviewing#sign-up)
+1. [Đăng ký với tư cách là người phản biện](reviewing#sign-up)
 1. [Hoàn thành phản biện](reviewing#complete-review)
 1. [Hoàn thành hồ sơ người dùng của bạn](reviewing#complete-user-profile)
 
 Người phản biện đóng một vai trò quan trọng trong việc đảm bảo chất lượng xuất bản học thuật. Chương này mô tả cách hoàn thành đánh giá.
 
-## <a name="sign-up"></a>Đăng ký với tư cách là người đánh giá
+## <a name="sign-up"></a>Đăng ký với tư cách là người phản biện
 
-Khi bạn đăng ký với tư cách là người dùng với trang web, bạn có thể được yêu cầu đăng ký với vai trò người đánh giá. Nếu điều này đã được bật, bạn có thể thêm vai trò người đánh giá bất cứ lúc nào, ngay cả khi bạn đã đăng ký, bằng cách truy cập trang [Hồ sơ người dùng](user-profile) trong phần phụ trợ biên tập.
+Khi bạn đăng ký với tư cách là người dùng với trang web, bạn có thể được yêu cầu đăng ký với vai trò người phản biện. Nếu điều này đã được bật, bạn có thể thêm vai trò người phản biện bất cứ lúc nào, ngay cả khi bạn đã đăng ký, bằng cách truy cập trang [Hồ sơ người dùng](user-profile) trong phần phụ trợ biên tập.
 
-Bạn cũng sẽ được yêu cầu nêu rõ sở thích của người đánh giá để người chỉnh sửa có thể đưa ra lựa chọn tốt hơn khi chọn người đánh giá cho một bài gửi.
+Bạn cũng sẽ được yêu cầu nêu rõ sở thích của người phản biện để người chỉnh sửa có thể đưa ra lựa chọn tốt hơn khi chọn người phản biện cho một bài gửi.
 
-Trong nhiều trường hợp, bạn có thể đã được thêm vào hệ thống với tư cách là người đánh giá. Điều này xảy ra khi một biên tập viên muốn mời bạn đánh giá một bài nộp nhưng bạn chưa đăng ký trong hệ thống.
+Trong nhiều trường hợp, bạn có thể đã được thêm vào hệ thống với tư cách là người phản biện. Điều này xảy ra khi một biên tập viên muốn mời bạn đánh giá một bài nộp nhưng bạn chưa đăng ký trong hệ thống.
 
 ## <a name="complete-review"></a>Hoàn thành phản biện
 
-Bạn có thể xem liệu bạn đã được chỉ định bất kỳ bài đánh giá nào hay chưa bằng cách truy cập trang [Các bài báo](submissions)  trong phần phụ trợ biên tập. Nếu bạn thấy bất kỳ nội dung gửi nào trong khu vực **Nhiệm vụ của tôi**, bạn có thể nhấp vào liên kết cho biết đó là giai đoạn hiện tại để truy cập vào trình duyệt của người đánh giá.
+Bạn có thể xem liệu bạn đã được chỉ định bất kỳ bài đánh giá nào hay chưa bằng cách truy cập trang [Các bài báo](submissions)  trong phần phụ trợ biên tập. Nếu bạn thấy bất kỳ nội dung gửi nào trong khu vực **Nhiệm vụ của tôi**, bạn có thể nhấp vào liên kết cho biết đó là giai đoạn hiện tại để truy cập vào trình duyệt của người phản biện.
 
 ### <a name="complete-review-request"></a>Yêu cầu
 
@@ -24,7 +24,7 @@ Bước đầu tiên yêu cầu bạn chấp nhận hoặc hủy liên kết yê
 
 ### <a name="complete-review-guidelines"></a>Nguyên tắc
 
-Vui lòng đọc mọi hướng dẫn dành cho người đánh giá mà tạp chí đã soạn thảo, để đảm bảo rằng bạn có thể cung cấp bài đánh giá ở định dạng và theo các tiêu chuẩn mong muốn.
+Vui lòng đọc mọi hướng dẫn dành cho người phản biện mà tạp chí đã soạn thảo, để đảm bảo rằng bạn có thể cung cấp bài đánh giá ở định dạng và theo các tiêu chuẩn mong muốn.
 
 ### <a name="complete-review-review"></a>Tải và đánh giá
 
@@ -46,4 +46,4 @@ Hồ sơ về các đánh giá của bạn được lưu trong hệ thống, vì
 
 ## <a name="complete-user-profile"></a>Hoàn thành hồ sơ người dùng của bạn
 
-Bạn có thể điền thêm thông tin đầy đủ về bản thân nếu bạn chưa điền. Đây là một cách tuyệt vời để đảm bảo các biên tập viên có tất cả thông tin họ cần để đưa ra những lựa chọn tuyệt vời cho người đánh giá. Hãy xem phần [Hồ sơ người dùng](user-profile) để tìm hiểu thêm.
+Bạn có thể điền thêm thông tin đầy đủ về bản thân nếu bạn chưa điền. Đây là một cách tuyệt vời để đảm bảo các biên tập viên có tất cả thông tin họ cần để đưa ra những lựa chọn tuyệt vời cho người phản biện. Hãy xem phần [Hồ sơ người dùng](user-profile) để tìm hiểu thêm.

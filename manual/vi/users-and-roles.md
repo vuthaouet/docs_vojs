@@ -8,7 +8,7 @@ Quản lý người dùng tạp chí của bạn, chỉ định họ vào các v
 
 ## <a name="users"></a> Người dùng
 
-Người quản lý và Quản trị viên tạp chí có thể xem danh sách tất cả người dùng trong tạp chí. Bạn có thể thêm người dùng, vô hiệu hóa người dùng, gửi email cho họ, chỉnh sửa hồ sơ của họ hoặc xóa họ hoàn toàn.
+Người quản lý và quản trị viên tạp chí có thể xem danh sách tất cả người dùng trong tạp chí. Bạn có thể thêm người dùng, vô hiệu hóa người dùng, gửi email cho họ, chỉnh sửa hồ sơ của họ hoặc xóa họ hoàn toàn.
 
 Cách dễ nhất để tìm người dùng là sử dụng nút tìm kiếm, nút này sẽ cho phép bạn tìm kiếm theo tên hoặc vai trò.
 
@@ -25,7 +25,7 @@ Có nhiều vai trò và hầu hết các tạp chí sẽ không cần tất c�
 Bạn có thể chỉnh sửa hoặc xóa các vai trò hiện có hoặc thêm các vai trò mới. Tất cả các vai trò đều được cấp một trong một số cấp quyền cho phép chúng thực hiện các hành động khác nhau trong hệ thống:
 
 - *Tác giả* có thể gửi bài mới.
-- *Người đánh giá* xuất hiện khi bạn chỉ định các bài đánh giá trong [Quy trình biên tập](editorial-workflow) và có quyền truy cập vào giai đoạn đó khi họ được chỉ định.
+- *người phản biện* xuất hiện khi bạn chỉ định các bài đánh giá trong [Quy trình biên tập](editorial-workflow) và có quyền truy cập vào giai đoạn đó khi họ được chỉ định.
 - *Người đọc*, giống như tất cả các kiểu người dùng khác, có thể truy cập trang web hướng tới người đọc. Tất cả người dùng đều có khả năng này.
 - *Người quản lý tạp chí* có quyền truy cập vào toàn bộ [Quy trình biên tập](editorial-workflow), cũng như hầu hết các cài đặt.
 - *Biên tập viên hàng loạt* và *Trợ lý tạp chí* chỉ có thể truy cập những phần đó của [Quy trình biên tập](editorial-workflow) được chỉ định cho vai trò của họ (xem bên dưới).

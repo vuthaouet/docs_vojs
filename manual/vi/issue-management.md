@@ -4,15 +4,15 @@
 1. [Số đã xuất bản](issue-management#back-issues)
 1. [Sửa một số báo](issue-management#edit-issue)
 
-Thiết lập các vấn đề sắp xảy ra và quản lý các vấn đề hiện có từ trang này.
+Thiết lập các số báo sắp xảy ra và quản lý các số báo hiện có từ trang này.
 
-Mỗi vấn đề được liệt kê trên các trang này có thể được mở rộng bằng cách sử dụng mũi tên nhỏ ở bên trái để hiển thị các tùy chọn.
+Mỗi số báo được liệt kê trên các trang này có thể được mở rộng bằng cách sử dụng mũi tên nhỏ ở bên trái để hiển thị các tùy chọn.
 
 **Chỉnh sửa** - [Quản lý](issue-management#edit-issue) nội dung và siêu dữ liệu cho số báo này.
 
 **Xem/Xem trước** - Chuyển đến số báo trên trang web của bạn hoặc xem bản xem trước của số báo đó nếu nó chưa được xuất bản.
 
-**Xuất bản/hủy xuất bản số báo** - Xuất bản một số báo sẽ hiển thị công khai trên trang web của bạn.
+**Xuất bản/hủy xuất bản số báo** - Xuất bản một số báo sẽ giúp hiển thị công khai trên trang web của bạn.
 
 **Xóa** - Không thể hoàn tác việc xóa số báo.
 
@@ -41,15 +41,15 @@ Trước khi một bài báo có thể xuất hiện ở đây, bạn cần ph�
 
 Các dữ liệu chính như ngày xuất bản, tên sách, số tập và năm có thể được đặt tại đây. Nếu bạn không muốn hiển thị bất kỳ chi tiết âm lượng nào trên trang web của mình, bạn có thể bỏ chọn các hộp kiểm xuất hiện ở đây.
 
-Nếu muốn, bạn cũng có thể cung cấp cho mỗi vấn đề một mô tả và ảnh bìa.
+Nếu muốn, bạn cũng có thể cung cấp cho mỗi số báo một mô tả và ảnh bìa.
 
 ### <a name="edit-issue-galley"></a>Bản mềm của số báo
 
-Một số tạp chí có thể muốn xuất bản một bản mềm toàn bộ số báo cùng với các bản mềm cho từng bài báo riêng lẻ. Nếu bạn có một tệp PDF hoặc định dạng khác chứa toàn bộ nội dung của vấn đề, bạn có thể thêm nó vào đây.
+Một số tạp chí có thể muốn xuất bản một bản mềm toàn bộ số báo cùng với các bản mềm cho từng bài báo riêng lẻ. Nếu bạn có một tệp PDF hoặc định dạng khác chứa toàn bộ nội dung của số báo, bạn có thể thêm nó vào đây.
 
 ### <a name="edit-issue-identifiers"></a>Định danh
 
-"Số nhận dạng URL công khai" là một slug văn bản được sử dụng trong URL cho vấn đề này. Theo mặc định, các vấn đề được cung cấp một URL dựa trên ID số của chúng. Nhưng bạn có thể muốn đặt cho chúng những cái tên mà con người có thể đọc được, chẳng hạn như "50th-niversary-issue", tạo ra các URL đẹp hơn.
+"Số nhận dạng URL công khai" là một slug văn bản được sử dụng trong URL cho số báo này. Theo mặc định, các số báo được cung cấp một URL dựa trên ID số của chúng. Nhưng bạn có thể muốn đặt cho chúng những cái tên mà con người có thể đọc được, chẳng hạn như "50th-anniversary-issue", tạo ra các URL đẹp hơn.
 
 Nếu bạn đã kích hoạt bổ sung các plugin ID công khai, bạn sẽ thấy chúng ở đây nếu chúng hỗ trợ phát hành ID công khai.
 
