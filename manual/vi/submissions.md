@@ -1,43 +1,39 @@
-# Submissions
+# Bài báo
 
-1. [Start A New Submission](submissions#new-submission)
-1. [My Queue](submissions#my-queue)
-1. [All Active](submissions#active)
-1. [Archives](submissions#archives)
-1. [Find Submissions Quickly](submissions#find-quickly)
+1. [Bắt đầu gửi một bài báo mới](submissions#new-submission)
+1. [Xét duyệt](submissions#my-queue)
+1. [Tất cả](submissions#active)
+1. [Lưu trữ](submissions#archives)
+1. [Tìm bài báo nhanh chóng](submissions#find-quickly)
 
-Access any submissions currently under consideration from the Submissions page.
+Truy cập bất kỳ nội dung gửi nào hiện đang được xem xét từ trang bài báo.
+Người dùng biên tập và quản trị cũng có quyền truy cập vào tất cả các bài gửi đã xuất bản và được lưu trữ, đồng thời truy cập nhanh vào các loại bài gửi phổ biến để giúp quản lý hàng đợi biên tập của họ.
+## <a name="new-submission"></a>Bắt đầu gửi một bài báo mới
 
-Editorial and administrative users also have access to all published and archived submissions, and quick-access to common types of submissions to help manage their editorial queue.
+Bạn có thể bắt đầu một bài gửi mới bằng cách nhấp vào nút **Gửi bài mới** xuất hiện phía trên bên phải mỗi danh sách bài báo.
+## <a name="my-queue"></a>Xét duyệt
 
-## <a name="new-submission"></a>Start A New Submission
+Tab này cung cấp thông tin về các bài nộp hiện được chỉ định cho bạn. Sử dụng tab này để cập nhật các hoạt động hàng ngày của bạn.
 
-You can start a new submission by clicking the **New Submission** button which appears above each of the submission lists. For more information, see [Learning OJS 3: Submitting an Article](https://docs.pkp.sfu.ca/learning-ojs/en/authoring#submitting-an-article.
+Người chỉnh sửa sẽ thấy thông báo khi phân công đánh giá quá hạn. Người đánh giá có thể theo dõi ngày đến hạn cho các phân công của họ. Và các tác giả có thể theo dõi các bài báo của họ đang ở giai đoạn nào.
 
-## <a name="my-queue"></a>My Queue
+## <a name="unassigned"></a>Chưa phân công
 
-This tab provides information about submissions currently assigned to you. Use this tab to keep up with your day-to-day activities.
+Người quản lý tạp chí có thể xem bất kỳ bài gửi mới nào chưa được chỉ định biên tập viên hoặc biên tập viên chuyên mục. Sử dụng tab này để đảm bảo mỗi bài nộp đều có một người chỉnh sửa được chỉ định để quản lý quy trình làm việc.
 
-Editors will see notices when review assignments are overdue. Reviewers can track the due dates for their assignments. And authors can keep track of what stage their submissions are in.
+## <a name="active"></a>Tất cả
 
-## <a name="unassigned"></a>Unassigned
+Tìm bất kỳ bài gửi nào trong hệ thống chưa được xuất bản hoặc bị từ chối. Chỉ biên tập viên và quản trị mới có quyền truy cập vào tab này.
+## <a name="archives"></a>Lưu trữ
 
-Journal Managers can view any new submissions which have not yet been assigned an editor or section editor. Use this tab to ensure each submission has an editor assigned to manage the workflow.
+Tìm các bài đã được xuất bản hoặc bị từ chối. Có thể tìm thấy bất kỳ bài báo nào kể cả khi bài báo không còn trải qua quy trình biên tập tại đây.
 
-## <a name="active"></a>Active
+## <a name="find-quickly"></a>Tìm bài báo nhanh chóng
 
-Find any submissions in the system that haven't been published or declined. Only editorial and administrative users have access to this tab. Fore more detailed information, see [Learning OJS 3: Submissions](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#submissions).
+### Tìm kiếm danh sách lớn
 
-## <a name="archives"></a>Archives
+Sử dụng bảng tìm kiếm phía trên danh sách để tìm các bài nộp trong một danh sách lớn. Bạn có thể tìm bài dự thi theo tiêu đề, tác giả và số ID.
 
-Find submissions that have been published or declined. Any submissions no longer undergoing the editorial workflow can be found here.
+### Lọc danh sách lớn
 
-## <a name="find-quickly"></a>Find Submissions Quickly
-
-### Searching Large Lists
-
-Use the search panel above the list to locate submissions in a large list. You can find submissions by title, author, and ID number.
-
-### Filtering Large Lists
-
-Click the **Filter** button to expand a set of search filters. You can quickly locate all submissions with overdue reviews, those in a specific stage of the workflow, or those submitted to a specific section.
+Nhấp vào nút **Bộ lọc** để mở rộng tập hợp các bộ lọc tìm kiếm. Bạn có thể nhanh chóng xác định vị trí tất cả các bài gửi có đánh giá quá hạn, những bài trong một giai đoạn cụ thể của quy trình làm việc hoặc những bài được gửi đến một phần cụ thể.

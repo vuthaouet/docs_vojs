@@ -1,45 +1,45 @@
-# Editorial Workflow
+# Quy trình biên tập
 
-1. [Managing Submission Details](editorial-workflow#manage-submission-details)
-1. [Editorial Actions](editorial-workflow#editorial-actions)
-1. [Participants](editorial-workflow#participants)
+1. [Quản lý chi tiết bài gửi](editorial-workflow#manage-submission-details)
+1. [Hoạt động biên tập](editorial-workflow#editorial-actions)
+1. [Những người tham gia](editorial-workflow#participants)
 
-The editorial workflow allows you to usher a submission from initial evaluation through peer review, copyediting, and production, where the item is prepared for publication.
+Quy trình biên tập cho phép bạn gửi một bản gửi từ đánh giá ban đầu thông qua đánh giá đồng cấp, sao chép và sản xuất, nơi mục được chuẩn bị để xuất bản.
 
-Each tab on the workflow page provides you with the information, tools, and discussion panels you'll need to complete the tasks for that stage. You can [add participants](editorial-workflow#participants) to help you. And when your ready, you'll be presented with a range of [editorial actions](editorial-workflow#editorial-actions) appropriate to each stage. For more information, see [Learning OJS 3: Editorial Workflow](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow).
+Mỗi tab trên trang quy trình làm việc cung cấp cho bạn thông tin, công cụ và bảng thảo luận mà bạn sẽ cần để hoàn thành các nhiệm vụ cho giai đoạn đó. Bạn có thể [thêm người tham gia](editorial-workflow#participants) để giúp bạn. Và khi bạn đã sẵn sàng, bạn sẽ được cung cấp một loạt [hoạt động biên tập](editorial-workflow#editorial-action) phù hợp với từng giai đoạn.
+## <a name="manage-submission-details"></a>Quản lý chi tiết bài gửi
 
-## <a name="manage-submission-details"></a>Managing Submission Details
+Chi tiết bài nộp xuất hiện ở đầu trang. Trong lĩnh vực này, bạn cũng sẽ tìm thấy các công cụ để giúp bạn quản lý siêu dữ liệu của bài gửi và lịch sử biên tập. Dữ liệu đính kèm với nội dung gửi từ các công cụ này vẫn tồn tại trong tất cả các giai đoạn.
 
-Submission details appear at the top of the page. In this area, you'll also find tools to help you manage the submission's metadata and editorial history. The data attached to the submission from these tools persists across all stages.
+### <a name="metadata"></a>Siêu dữ liệu
 
-### <a name="metadata"></a>Metadata
 
-The Metadata section includes two tabs: Submission and Identifiers.
+239/5000
+Phần Siêu dữ liệu bao gồm hai tab: Gửi và Số nhận dạng.
 
-Submission includes the submission metadata, such as article title, abstract, contributors, and keywords.
+Nội dung gửi bao gồm siêu dữ liệu gửi, chẳng hạn như tiêu đề bài viết, tóm tắt, cộng tác viên và từ khóa.
 
-Identifies provides a space to add any public URL identifiers.
+Nhận dạng cung cấp không gian để thêm bất kỳ số nhận dạng URL công khai nào.
 
-### <a name="editorial-history"></a>History
+### <a name="editorial-history"></a>Lịch sử
 
-Add notes for record-keeping and view a log of all events associated with this submission. Only editorial and administrative staff have access to the Editorial History.
+Thêm ghi chú để lưu trữ hồ sơ và xem nhật ký của tất cả các sự kiện liên quan đến bài nộp này. Chỉ các nhân viên biên tập và quản lý mới có quyền truy cập vào lịch sử biên tập
 
-### <a name="submission-library"></a>Submission Library
+### <a name="submission-library"></a>Thư viện
 
-A quick-access repository for any files that you'd like to track along with the submission. This is useful for files that aren't specific to any stage, such as signed contracts, marketing files, or guidelines you'd like to share with copyeditors or other assistants.
+Một kho lưu trữ truy cập nhanh cho bất kỳ tệp nào bạn muốn theo dõi cùng với nội dung gửi. Điều này hữu ích cho các tệp không dành riêng cho bất kỳ giai đoạn nào, chẳng hạn như hợp đồng đã ký, tệp tiếp thị hoặc các nguyên tắc bạn muốn chia sẻ với người sao chép hoặc trợ lý khác.
 
-You can quickly add files from your [Publisher Library](settings/workflow-settings#publisher) by clicking on **View Document Library**.
+Bạn có thể nhanh chóng thêm tệp từ [Thư viện nhà xuất bản](settings/workflow-settings#publisher) bằng cách nhấp vào **Xem Thư viện tài liệu**.
 
-## <a name="editorial-actions"></a> Editorial Actions
+## <a name="editorial-actions"></a> Hoạt động biên tập
 
-At the top right of each stage of the workflow, you'll see the editorial actions available to you. These decisions change with each stage. In most cases, they complete the current stage and forward the submission onto the next stage.
+Ở trên cùng bên phải của mỗi giai đoạn của quy trình làm việc, bạn sẽ thấy các hành động biên tập có sẵn cho bạn. Những quyết định này thay đổi theo từng giai đoạn. Trong hầu hết các trường hợp, họ hoàn thành giai đoạn hiện tại và chuyển tiếp trình sang giai đoạn tiếp theo.
 
-Read the [help guide](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow) for each stage to learn more about the editorial actions.
+Đọc [hướng dẫn trợ giúp](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow) cho từng giai đoạn để tìm hiểu thêm về các thao tác biên tập.
 
-## <a name="participants"></a>Participants
+## <a name="participants"></a>Những người tham gia
 
-On the right of each stage of the workflow, you'll find a list of users who have access to this stage. You can add editorial assistants, copyeditors, layout editors or other users you'd like to have access to the current stage.
+Ở bên phải mỗi giai đoạn của quy trình làm việc, bạn sẽ tìm thấy danh sách những người dùng có quyền truy cập vào giai đoạn này. Bạn có thể thêm trợ lý biên tập, người sao chép, người chỉnh sửa bố cục hoặc những người dùng khác mà bạn muốn có quyền truy cập vào giai đoạn hiện tại.
+*Khi bạn thêm người dùng, người dùng đó sẽ có quyền truy cập vào bất kỳ giai đoạn nào được vai trò người dùng của họ cho phép*. Ví dụ: một Biên tập viên được thêm vào lưới Người tham gia sẽ có quyền truy cập vào mọi giai đoạn. Nhưng Copyeditor sẽ chỉ có quyền truy cập vào giai đoạn Copyediting.
 
-*When you add a user, that user will have access to any stages allowed by their user role*. For example, an Editor added to the Participants grid will have access to every stage. But a Copyeditor will only have access to the Copyediting stage.
-
-*You won't need to add Reviewers to the Participants panel.* Once you get to the [review stages](editorial-workflow/review), you'll be able to manage the reviewers in a more convenient panel.
+*Bạn sẽ không cần thêm Người đánh giá vào bảng Người tham gia.* Khi bạn đến [giai đoạn đánh giá](editorial-workflow/review), bạn sẽ có thể quản lý người đánh giá trong một bảng thuận tiện hơn.

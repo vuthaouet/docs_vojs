@@ -1,37 +1,37 @@
-# Users and Roles
+# Người dùng và quyền
 
-1. [Users](users-and-roles#users)
-1. [Roles](users-and-roles#roles)
-2. [Site Access](users-and-roles#site-access)
+1. [Người dùng](users-and-roles#users)
+1. [Quyền](users-and-roles#roles)
+2. [Truy cập trang web](users-and-roles#site-access)
 
-Manage your journal's users, assign them to roles, and create or edit existing roles. For more detailed information, see [Learning OJS 3: Users and Roles](https://docs.pkp.sfu.ca/learning-ojs/en/users-and-roles).
+Quản lý người dùng tạp chí của bạn, chỉ định họ vào các vai trò và tạo hoặc chỉnh sửa các vai trò hiện có.
 
-## <a name="users"></a> Users
+## <a name="users"></a> Người dùng
 
-Journal Managers and Administrators can view a list of all users in the journal. You can add users, disable a user, send them email, edit their profile, or delete them completely.
+Người quản lý và Quản trị viên tạp chí có thể xem danh sách tất cả người dùng trong tạp chí. Bạn có thể thêm người dùng, vô hiệu hóa người dùng, gửi email cho họ, chỉnh sửa hồ sơ của họ hoặc xóa họ hoàn toàn.
 
-The easiest way to find a user is to use the search button, which will allow you to search by name or role.
+Cách dễ nhất để tìm người dùng là sử dụng nút tìm kiếm, nút này sẽ cho phép bạn tìm kiếm theo tên hoặc vai trò.
 
-*To find a list of all authors, use the Search feature, leave the search field empty and select Author from the dropdown menu. Then click the Search button.*
+*Để tìm danh sách tất cả các tác giả, hãy sử dụng tính năng Tìm kiếm, để trống trường tìm kiếm và chọn Tác giả từ menu thả xuống. Sau đó nhấp vào nút Tìm kiếm.*
 
-## <a name="roles"></a> Roles
+## <a name="roles"></a> Quyền
 
-User roles govern who can access what in the editorial worfklow.
+Vai trò của người dùng chi phối ai có thể truy cập những gì trong luồng biên tập.
 
-A flexible user role system is provided so that you can tailor the roles to your needs. On the Roles tab, you'll see a list of default roles created by the system.
+Một hệ thống vai trò người dùng linh hoạt được cung cấp để bạn có thể điều chỉnh các vai trò theo nhu cầu của mình. Trên tab Vai trò, bạn sẽ thấy danh sách các vai trò mặc định được tạo bởi hệ thống.
 
-There are many roles, and most journals won't need all of them. Feel free to delete roles you won't use in your workflow.
+Có nhiều vai trò và hầu hết các tạp chí sẽ không cần tất cả chúng. Hãy xóa các vai trò bạn sẽ không sử dụng trong quy trình làm việc của mình.
 
-You can edit or remove existing roles or add new roles. All roles are given one of a few permission levels which allow them to perform various actions in the system:
+Bạn có thể chỉnh sửa hoặc xóa các vai trò hiện có hoặc thêm các vai trò mới. Tất cả các vai trò đều được cấp một trong một số cấp quyền cho phép chúng thực hiện các hành động khác nhau trong hệ thống:
 
-- *Authors* can make new submissions.
-- *Reviewers* appear when you're assigning reviews in the [Editorial Workflow](editorial-workflow) and have access to that stage when they're assigned.
-- *Readers*, like all other user types, can access the reader-facing website. All users have this capability.
-- *Journal Managers* have access to the entire [Editorial Workflow](editorial-workflow), as well as most of the settings.
-- *Series Editors* and *Journal Assistants* can access only those parts of the [Editorial Workflow](editorial-workflow) assigned to their role (see below).
+- *Tác giả* có thể gửi bài mới.
+- *Người đánh giá* xuất hiện khi bạn chỉ định các bài đánh giá trong [Quy trình biên tập](editorial-workflow) và có quyền truy cập vào giai đoạn đó khi họ được chỉ định.
+- *Người đọc*, giống như tất cả các kiểu người dùng khác, có thể truy cập trang web hướng tới người đọc. Tất cả người dùng đều có khả năng này.
+- *Người quản lý tạp chí* có quyền truy cập vào toàn bộ [Quy trình biên tập](editorial-workflow), cũng như hầu hết các cài đặt.
+- *Biên tập viên hàng loạt* và *Trợ lý tạp chí* chỉ có thể truy cập những phần đó của [Quy trình biên tập](editorial-workflow) được chỉ định cho vai trò của họ (xem bên dưới).
 
-In addition to the permission levels, you can restrict some roles to particular stages of the [Editorial Workflow](editorial-workflow). This is useful for professional assistants such as copy editors or layout managers who may assist during one or two stages of the workflow.
+Ngoài các cấp độ quyền, bạn có thể hạn chế một số vai trò trong các giai đoạn cụ thể của [Quy trình biên tập](editorial-workflow). Điều này rất hữu ích cho các trợ lý chuyên nghiệp như người chỉnh sửa bản sao hoặc người quản lý bố cục, những người có thể hỗ trợ trong một hoặc hai giai đoạn của quy trình làm việc.
 
-## <a name="site-access"></a> Site Access Options
+## <a name="site-access"></a> Truy cập trang web
 
-Under the Site Access tab, you can turn off public user registration or event limit access to the reader-facing site to registered users.
+Trong tab Truy cập Trang web, bạn có thể tắt đăng ký người dùng công khai hoặc quyền truy cập giới hạn sự kiện vào trang dành cho người đọc đối với những người dùng đã đăng ký.

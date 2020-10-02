@@ -1,73 +1,72 @@
-# Authoring
+# Tác giải
 
-1. [Author Actions](authoring#author-actions)
-1. [Make a Submission](authoring#make-submission)
-1. [Track your Submission](authoring#track-submission)
+1. [Hoạt động của tác giả](authoring#author-actions)
+1. [Thực hiên một bài báo](authoring#make-submission)
+1. [Theo dõi bài báo của bạn](authoring#track-submission)
 
-When logged in to OJS as an author, you will see two panels: My Assigned and My Authored. If you have never submitted to this journal, both panels will be empty. For more detailed information, see [Learning OJS 3: Authoring](https://docs.pkp.sfu.ca/learning-ojs/en/authoring).
+Khi đăng nhập vào OJS với tư cách là tác giả, bạn sẽ thấy hai bảng: Nhiệm vụ của tôi và Bài báo của tôi. Nếu bạn chưa bao giờ gửi cho tạp chí này, cả hai bảng sẽ trống.
 
-## <a name="author-actions"></a>Author Actions
-To the right of your screen, choose New Submission to begin a new submission.
+## <a name="author-actions"></a>Hoạt động của tác giả
 
+Ở bên phải màn hình, hãy chọn Gửi bài mới để bắt đầu gửi một bài báo mới.
 
-## <a name="make-submission"></a>Make a Submission
+## <a name="make-submission"></a>Thực hiên một bài báo
 
-*If you're logged in but don't see the editorial interface, you may be viewing the reader-facing website. If that's the case, find your user profile link and click on the Submissions link which appears below it. Each website may be different.*
+*Nếu bạn đã đăng nhập nhưng không thấy giao diện biên tập, có thể bạn đang xem trang web hướng tới người đọc. Nếu đúng như vậy, hãy tìm liên kết hồ sơ người dùng của bạn và nhấp vào liên kết Gửi xuất hiện bên dưới nó. Mỗi trang web có thể khác nhau.*
 
-Making a new submission is an easy-to-follow 5-step process. Follow along with the on-screen instructions to complete the process.
+Tạo một bài báo mới là một quy trình 5 bước dễ thực hiện. Làm theo hướng dẫn trên màn hình để hoàn tất quá trình:
 
-### <a name="start"></a>Start
+### <a name="start"></a>Bắt đầu
 
-1. Select an appropriate section for your submission.
-1. Read and agree to the Submission Requirements.
-1. Add any comments to the editor (optional).
-1. Review the Privacy Statement to ensure you agree.
+1. Chọn chuyên mục thích hợp với bài báo của bạn
+1. Đọc và đồng ý với yêu cầu gửi.
+1. Thêm bất kỳ ghi chú cho biên tập viên (tùy chọn).
+1. Xem lại tuyên bố về quyền riêng tư để đảm bảo bạn đồng ý.
 
-### <a name="upload-submission"></a>Upload Submission
+### <a name="upload-submission"></a>Tải lên bài gửi
 
-Upload your submission files.
+Tải lên tệp của bài báo
 
-**Upload File**: Each file needs to be assigned as a particular component, which helps organize the files for large projects.
+**Tải tệp**: Mỗi tệp cần được gán như một thành phần cụ thể, giúp tổ chức các tệp cho các dự án lớn.
 
-You'll upload each of your files one at a time. You will have the opportunity to upload more files in a moment.
+Bạn sẽ tải lên từng tệp của mình cùng một lúc. Bạn sẽ có cơ hội tải lên nhiều tệp hơn trong giây lát.
 
-**Add Details**:
+**Thêm chi tiết**:
 
-If you wish, use the Edit link to rename the default file name chosen by the system.
+Nếu bạn muốn, hãy sử dụng chỉnh sửa liên kết để đổi tên tệp mặc định do hệ thống chọn.
 
-**Confirm**: Add additional files or hit Complete.
+**Xác nhận**: Thêm tệp bổ sung hoặc nhấn Hoàn thành.
 
-Select Save and Continue to move to the next step.
+Chọn Lưu và Tiếp tục để chuyển sang bước tiếp theo.
 
-### <a name="enter-metadata"></a>Enter Metadata
+### <a name="enter-metadata"></a>Nhập siêu dữ liệu
 
-Add your submission details, such as title and abstract.
+Thêm chi tiết bài báo của bạn, chẳng hạn như tiêu đề và tóm tắt.
 
-You can add additional authors by using the Add Contributors link.
+Bạn có thể thêm các tác giả khác bằng cách sử dụng liên kết thêm tác giả
 
+### <a name="confirmation"></a>Xác nhận
 
-### <a name="confirmation"></a>Confirmation
+Hãy dành một chút thời gian để xác nhận các chi tiết bạn đã nhập. Tại thời điểm này, bạn có thể quay lại bất kỳ bước nào trước đó để thay đổi các chi tiết bạn đã nhập.
 
-Take a moment to confirm the details you've entered. At this point, you can jump back to any of the previous steps to change the details you've entered.
+### <a name="next-steps"></a>Bước tiếp theo
 
-### <a name="next-steps"></a>Next Steps
+Bạn đã hoàn thnahf! Nếu bạn muốn đọc thêm về cách theo dõi bài nộp của mình, hãy đọc phần tiếp theo.
 
-You've done it! If you want to read more about tracking your submission, read the next section.
+## <a name="track-submission"></a>Theo dõi bài báo của bạn
 
-## <a name="track-submission"></a>Track your Submission
+Khi nội dung gửi của bạn đang được xem xét, bạn có thể theo dõi trạng thái của nó bằng cách đăng nhập vào trang web và truy cập trang [Các bài báo](submissions).
 
-When your submission is under consideration, you can keep an eye on its status by logging into the website and going to the [Submissions](submissions) page.
+Tại đây, bạn sẽ thấy các bài nộp của mình được liệt kê với giai đoạn hiện tại của quy trình biên tập mà nó đang ở. Hãy nhấp vào tên để tương tác với giai đoạn đó.
 
-Here you'll find you submissions listed with the current stage of the editorial workflow it is in. Click the stage name to interact with that stage.
+### <a name="track-submission-discussions"></a>Bảng thảo luận
 
-### <a name="track-submission-discussions"></a>Discussion Panels
+Trong mỗi giai đoạn, bạn sẽ có quyền truy cập vào một khu vực thảo luận. Nếu một biên tập viên hoặc trợ lý biên tập cần thêm thông tin từ bạn, họ sẽ có thể mở một cuộc thảo luận. Khi điều đó xảy ra, bạn sẽ được thông báo qua email để bạn có thể trả lời.
 
-In each stage you'll have access to a discussion area. If an editor or editorial assistant needs more information from you, they'll be able to open a discussion. When that happens, you'll be notified by email so that you can respond.
+*Bạn sẽ không thể bắt đầu thảo luận trên hầu hết các giai đoạn, nhưng chúng sẽ xuất hiện nếu một giai đoạn đã được người biên tập bắt đầu.*
 
-*You won't be able to initiate discussions on most stages, but they'll appear if one has been initiated by the editors.*
+### <a name="track-submission-review"></a>Giai đoạn phản biện
 
-### <a name="track-submission-review"></a>Review Stage
+Trong giai đoạn phản biện, bạn sẽ thấy cập nhật trạng thái ở trên cùng, cập nhật này sẽ thông báo cho bạn khi người đánh giá được lựa chọn, chỉ định và gửi đánh giá của họ.
 
-During the review stage, you'll see a status update at the top, which will keep you informed as reviewers are recruited, assigned, and submit their reviews.
-
-During the review stage, you may be asked to submit revisions which address any concerns raised. If needed, you'll find a Revisions panel where you can upload new files for the editor.
+Trong giai đoạn phản biện, bạn có thể được yêu cầu gửi các bản sửa đổi giải quyết bất kỳ mối quan tâm nào được nêu ra. Nếu cần, bạn sẽ tìm thấy bảng điều chỉnh nơi bạn có thể tải lên các tệp mới cho biên tập viên.

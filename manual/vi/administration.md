@@ -1,36 +1,35 @@
-# Administration
+#Quản lý
 
-1. [Hosted Journals](administration#hosted-journals)
-1. [Administrative Functions](administration#admin-functions)
+1. [Các tạp chí lưu trữ](administration#hosted-journals)
+1. [Chức năng quản trị](administration#admin-functions)
 
-Site administration is limited to users with full system permissions. Administration tasks are infrequent and may be carried out by a journal manager, senior editor, or a dedicated site administrator. For more detailed information, see [Learning OJS: Site Administration](https://docs.pkp.sfu.ca/learning-ojs/en/site-administration).
+Quản trị trang web được giới hạn cho người dùng có toàn quyền hệ thống. Các nhiệm vụ quản trị không thường xuyên và có thể được thực hiện bởi người quản lý tạp chí, biên tập viên cấp cao hoặc một quản trị viên chuyên trách của trang web.
+## <a name="hosted-journals"></a>Các tạp chí lưu trữ
 
-## <a name="hosted-journals"></a>Hosted Journals
+Thêm, chỉnh sửa hoặc xóa các tạp chí được lưu trữ trên cài đặt này. Sẽ chỉ có một tạp chí trong hầu hết các trường hợp, nhưng bạn có thể lưu trữ nhiều tạp chí với một cài đặt duy nhất.
 
-Add, edit or remove journals hosted on this installation. There will only be one journal in most cases, but you can host multiple journals with a single installation.
+Quản trị viên, người quản lý tạp chí hoặc biên tập viên cấp cao có thể truy cập ** Trình hướng dẫn cài đặt ** cho mỗi tạp chí được lưu trữ, sẽ hướng dẫn bạn qua các bước thiết lập tạp chí cơ bản. Chúng bao gồm thiết lập tiêu đề, chi tiết liên hệ, giao diện trang web, thông số gửi, chi tiết lập chỉ mục và người dùng.
 
-Administrators, journal managers or senior editors can access a **Settings Wizard** for each hosted journal, which will walk you through the basic journal setup steps. These include setting up the masthead, contact details, site appearance, submission parameters, indexing details, and users.
+## <a name="admin-functions"></a>Chức năng quản trị
 
-## <a name="admin-functions"></a>Administrative Functions
+Một số chức năng quản trị có sẵn trong khu vực quản trị trang web. Những điều này nên được sử dụng một cách thận trọng bởi các quản trị viên kỹ thuật. Sử dụng không đúng cách có thể dẫn đến kết quả không mong muốn.
 
-Several administrative functions are available in the site administration area. These should be used with caution by technical administrators. Improper use could lead to unexpected results.
+### Thông tin hệ thống
 
-### System Information
-
-Detailed information about the software version and server configuration. These details are useful for receiving support on the PKP Forums.
+Thông tin chi tiết về phiên bản phần mềm và cấu hình máy chủ.
 
 ### Expire User Sessions
 
-This link will log all users out of the system immediately. This can be useful just before conducting a software upgrade.
+Liên kết này sẽ đăng xuất tất cả người dùng ra khỏi hệ thống ngay lập tức. Điều này có thể hữu ích ngay trước khi tiến hành nâng cấp phần mềm.
 
-### Clear Data Caches
+### Xóa bộ nhớ cache dữ liệu
 
-Clears all cached data, including locale information, help cache, and search cache.
+Xóa tất cả dữ liệu đã lưu trong bộ nhớ cache, bao gồm thông tin ngôn ngữ, bộ nhớ cache trợ giúp và bộ nhớ cache tìm kiếm.
 
-### Clear Template Cache
+### Xóa bộ nhớ đệm mẫu
 
-Clears all cached versions of HTML templates. This function may be useful to force templates to be reloaded after customizations have been made.
+Xóa tất cả các phiên bản đã lưu trong bộ nhớ cache của các mẫu HTML. Chức năng này có thể hữu ích để buộc tải lại các mẫu sau khi các tùy chỉnh đã được thực hiện.
 
-### Clear Scheduled Task Execution Logs
+### Xóa nhật ký thực thi tác vụ đã lên lịch
 
-Remove log files generated automatically by some scheduled maintenance tasks, such as the processing of statistics.
+Loại bỏ các tệp nhật ký được tạo tự động bởi một số tác vụ bảo trì theo lịch trình, chẳng hạn như xử lý số liệu thống kê.

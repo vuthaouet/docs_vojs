@@ -1,9 +1,9 @@
-# User Profile
+# Thông tin người dùng
 
-This chapter covers user profiles, including registration, logging in, and making changes.
+Chương này bao gồm hồ sơ người dùng, bao gồm đăng ký, đăng nhập và thực hiện các thay đổi.
 
-Once logged in, you can configure your User Profile and notification settings. To view your profile, find the link which displays your username at the top-right of the site when logged in.
+Sau khi đăng nhập, bạn có thể định cấu hình thông tin người dùng và cài đặt thông báo của mình. Để xem hồ sơ của bạn, hãy tìm liên kết hiển thị tên người dùng của bạn ở trên cùng bên phải của trang web khi đăng nhập.
 
-You can update your name, contact details and password, as well as manage your public profile and configure what kind of notifications you'd like to receive.
+Bạn có thể cập nhật tên, chi tiết liên hệ và mật khẩu, cũng như quản lý hồ sơ công khai của mình và định cấu hình loại thông báo bạn muốn nhận.
 
-If you're enrolled as a **Reviewer** for this site, you can enter your Reviewing Interests from the Roles tab.
+Nếu bạn đã đăng ký làm **Người phản biện** cho trang web này, bạn có thể nhập chuyên môn đánh giá của mình từ tab Vai trò.

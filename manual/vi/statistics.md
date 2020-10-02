@@ -1,2 +1,2 @@
 # Statistcs
-View statistics for articles published in your journal and filter by date range and section. For more detailed or cusotmized displays of statics, see the Report Generator.
+Xem thống kê cho các bài báo đã xuất bản trong tạp chí của bạn và lọc theo phạm vi ngày và mục. Để biết thêm thông tin chi tiết hoặc hiển thị tĩnh, hãy xem trình tạo báo cáo.

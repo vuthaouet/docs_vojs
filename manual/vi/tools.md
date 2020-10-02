@@ -1,18 +1,17 @@
 # Tools
 
-1. [Import/Export](tools#import-export)
-1. [Report Generator](tools#report-generator)
+1. [Nhập liệu/Xuất liệu](tools#import-export)
+1. [Trình tạo báo cáo](tools#report-generator)
 
-Import and export content and view usage statistics and reports from the Tools menu.
+Nhập và xuất nội dung và xem thống kê và báo cáo sử dụng từ menu Công cụ.
 
-The tools available to you may depend on what plugins an administrator has configured for your site.
+Các công cụ có sẵn cho bạn có thể phụ thuộc vào những plugin mà quản trị viên đã định cấu hình cho trang web của bạn.
+## <a name="import-export"></a>Nhập liệu/Xuất liệu
 
-## <a name="import-export"></a>Import/Export
+Bạn có thể nhập và xuất  dữ liệu của người dùng, số báo và siêu dữ liệu bài viết.
 
-The Import/Export tools allow you to move content between OJS installations. You can import and export users, publications and article metadata. For more detailed information, see [Learning OJS 3: Import/Export](https://docs.pkp.sfu.ca/learning-ojs/en/tools#importexport).
+## <a name="report-generator"></a>Trình tạo báo cáo
 
-## <a name="report-generator"></a>Report Generator
+Hệ thống tạo các báo cáo theo dõi việc sử dụng và gửi trang web trong một khoảng thời gian nhất định. Báo cáo được tạo ở định dạng CSV yêu cầu ứng dụng bảng tính như Excel, Google Documents hoặc LibreOffice để xem.
 
-The system generates reports that track site usage and submissions over a given period of time. Reports are generated in CSV format which requires a spreadsheet application, like Excel, Google Docs or LibreOffice to view.
-
-You can generate detailed custom reports and filter by complex parameters. If you're unsure about any of the parameters, speak to your technical support team for help. For more detailed information, see [Learning OJS 3: Report Generator](https://docs.pkp.sfu.ca/learning-ojs/en/tools#report-generator).
+Bạn có thể tạo báo cáo tùy chỉnh chi tiết và lọc theo các thông số phức tạp. Nếu bạn không chắc chắn về bất kỳ thông số nào, hãy liên lạc với nhóm hỗ trợ kỹ thuật để được trợ giúp. 

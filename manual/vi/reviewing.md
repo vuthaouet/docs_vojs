@@ -1,49 +1,49 @@
-# Reviewing
+# Phản biện
 
-1. [Signing Up as a Reviewer](reviewing#sign-up)
-1. [Completing a Review](reviewing#complete-review)
-1. [Complete Your User Profile](reviewing#complete-user-profile)
+1. [Đăng ký với tư cách là người đánh giá](reviewing#sign-up)
+1. [Hoàn thành phản biện](reviewing#complete-review)
+1. [Hoàn thành hồ sơ người dùng của bạn](reviewing#complete-user-profile)
 
-Reviewers play a vital role in ensuring the quality of scholarly publishing. This chapter describes how to complete a review. For more detailed information, see [Learning OJS 3: Reviewing](https://docs.pkp.sfu.ca/learning-ojs/en/reviewing).
+Người phản biện đóng một vai trò quan trọng trong việc đảm bảo chất lượng xuất bản học thuật. Chương này mô tả cách hoàn thành đánh giá.
 
-## <a name="sign-up"></a>Signing Up as a Reviewer
+## <a name="sign-up"></a>Đăng ký với tư cách là người đánh giá
 
-When you register as a user with the website, you may be asked to sign up for the reviewer role. If this has been enabled, you can add the reviewer role at any time, even if you've already registered, by going to the [User Profile](user-profile) page in the editorial backend.
+Khi bạn đăng ký với tư cách là người dùng với trang web, bạn có thể được yêu cầu đăng ký với vai trò người đánh giá. Nếu điều này đã được bật, bạn có thể thêm vai trò người đánh giá bất cứ lúc nào, ngay cả khi bạn đã đăng ký, bằng cách truy cập trang [Hồ sơ người dùng](user-profile) trong phần phụ trợ biên tập.
 
-You'll also be asked to specify your reviewer interests, so that editors can make better choices when selecting reviewers for a submission.
+Bạn cũng sẽ được yêu cầu nêu rõ sở thích của người đánh giá để người chỉnh sửa có thể đưa ra lựa chọn tốt hơn khi chọn người đánh giá cho một bài gửi.
 
-In many cases, you may have already been added into the system as a reviewer. This happens when an editor wants to invite you to review a submission but you're not yet registered in the system.
+Trong nhiều trường hợp, bạn có thể đã được thêm vào hệ thống với tư cách là người đánh giá. Điều này xảy ra khi một biên tập viên muốn mời bạn đánh giá một bài nộp nhưng bạn chưa đăng ký trong hệ thống.
 
-## <a name="complete-review"></a>Completing a Review
+## <a name="complete-review"></a>Hoàn thành phản biện
 
-You can see if you've been assigned any reviews by going to the [Submissions](submissions) page in the editorial backend. If you see any submissions in the **My Assigned** area, you can click on the link indicating it's current stage to access the reviewer walk-through.
+Bạn có thể xem liệu bạn đã được chỉ định bất kỳ bài đánh giá nào hay chưa bằng cách truy cập trang [Các bài báo](submissions)  trong phần phụ trợ biên tập. Nếu bạn thấy bất kỳ nội dung gửi nào trong khu vực **Nhiệm vụ của tôi**, bạn có thể nhấp vào liên kết cho biết đó là giai đoạn hiện tại để truy cập vào trình duyệt của người đánh giá.
 
-### <a name="complete-review-request"></a>Request
+### <a name="complete-review-request"></a>Yêu cầu
 
-The first step requests that you accept or declin the request to perform a review. You'll find the relevant submission details as well as **due dates** for responding to the request and submitting your review.
+Bước đầu tiên yêu cầu bạn chấp nhận hoặc hủy liên kết yêu cầu để thực hiện đánh giá. Bạn sẽ tìm thấy các chi tiết gửi liên quan cũng như **ngày đến hạn** để phản hồi yêu cầu và gửi đánh giá của bạn.
 
-### <a name="complete-review-guidelines"></a>Guidelines
+### <a name="complete-review-guidelines"></a>Nguyên tắc
 
-Please read any reviewer guidelines the journal has prepared, to ensure that you're able to provide a review in the format and according to the standards desired.
+Vui lòng đọc mọi hướng dẫn dành cho người đánh giá mà tạp chí đã soạn thảo, để đảm bảo rằng bạn có thể cung cấp bài đánh giá ở định dạng và theo các tiêu chuẩn mong muốn.
 
-### <a name="complete-review-review"></a>Download & Review
+### <a name="complete-review-review"></a>Tải và đánh giá
 
-You'll find the Review Files for your to download and review on this page. Once you've evaluated the files, you'll be asked to enter your review in two text boxes.
+Bạn sẽ tìm thấy Tệp Đánh giá để tải xuống và xem lại trên trang này. Khi bạn đã đánh giá các tệp, bạn sẽ được yêu cầu nhập đánh giá của mình vào hai hộp văn bản.
 
-You should put *comments intended to be shared with the author* in the first text area. The second text area is for *comments intended only for the editor*.
+Bạn nên đặt *nhận xét muốn chia sẻ với tác giả* trong vùng văn bản đầu tiên. Vùng văn bản thứ hai dành cho *nhận xét chỉ dành cho biên tập viên*.
 
-The editor will have access to all of your comments. But this provides you with a way to share information privately with the editor, which may not be appopriate to share with the author.
+Biên tập viên sẽ có quyền truy cập vào tất cả các bình luận của bạn. Nhưng điều này cung cấp cho bạn một cách để chia sẻ thông tin riêng tư với người biên tập, mà có thể không thích hợp để chia sẻ với tác giả.
 
-If you prepared your review in a separate file, you can instead upload that file at the bottom of the page.
+Nếu bạn chuẩn bị bài đánh giá của mình trong một tệp riêng biệt, thay vào đó, bạn có thể tải tệp đó lên ở cuối trang.
 
-### <a name="complete-review-completion"></a>Completion
+### <a name="complete-review-completion"></a>Hoàn thành
 
-You've completed your review. Thanks for your help ensuring the quality of scholarly publishing.
+Bạn đã hoàn thành bài đánh giá của mình. Cảm ơn sự giúp đỡ của bạn để đảm bảo chất lượng xuất bản học thuật.
 
-An editor will take a look at it and may send you an acknowledgment by email once they've done so.
+Biên tập viên sẽ xem xét nó và có thể gửi cho bạn một xác nhận qua email khi họ đã làm như vậy.
 
-A record of your reviews is kept in the system, so editors can see -- and appreciate -- how many reviews you've done for the journal at all times.
+Hồ sơ về các đánh giá của bạn được lưu trong hệ thống, vì vậy các biên tập viên có thể xem - và đánh giá cao - bạn đã thực hiện bao nhiêu đánh giá cho tạp chí mọi lúc.
 
-## <a name="complete-user-profile"></a>Complete Your User Profile
+## <a name="complete-user-profile"></a>Hoàn thành hồ sơ người dùng của bạn
 
-You can fill out more complete information about yourself if you haven't yet. This is a great way to ensure the editors have all the information they need to make great choices for reviewers. Take a look at the [User Profile](user-profile) section to learn more.
+Bạn có thể điền thêm thông tin đầy đủ về bản thân nếu bạn chưa điền. Đây là một cách tuyệt vời để đảm bảo các biên tập viên có tất cả thông tin họ cần để đưa ra những lựa chọn tuyệt vời cho người đánh giá. Hãy xem phần [Hồ sơ người dùng](user-profile) để tìm hiểu thêm.
