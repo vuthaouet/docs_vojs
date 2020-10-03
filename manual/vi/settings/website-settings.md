@@ -1,43 +1,42 @@
-# Website Settings
+# Cài đặt Website
 
-1. [Appearance](website-settings#appearance)
-1. [Setup](website-settings#setup)
+1. [Giao diện](website-settings#appearance)
+1. [Cài đặt](website-settings#setup)
 1. [Plugins](website-settings#plugins)
 
-In Website Settings you can configure the appearance of and information on your reader-facing website, set up your site's languages and archiving settings, and install and enable plugins. See [Learning OJS 3: Website Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website) for detailed instructions. There may be additional tabs in this menu if you have enabled specific plugins, such as Static Pages or Translator.
+Trong Cài đặt Trang web, bạn có thể định cấu hình giao diện và thông tin trên trang web hướng tới người đọc, thiết lập ngôn ngữ và cài đặt lưu trữ của trang web, cài đặt và bật các plugin.
 
-## <a name="appearance"></a>Appearance
-Here you can change the look and feel of your journal website, including upload images and select a theme.
+## <a name="appearance"></a>Giao diện
+Tại đây, bạn có thể thay đổi giao diện của trang web tạp chí của mình, bao gồm tải lên hình ảnh và chọn một chủ đề.
 
-### Theme
-To change the overall design of your website, select a different theme and save. The look of the website will stay the same but the content will not change. You can easily change themes to try them out.
+### chủ đề
+Để thay đổi thiết kế tổng thể của trang web của bạn, hãy chọn một chủ đề khác và lưu. Giao diện của trang web sẽ giữ nguyên nhưng nội dung sẽ không thay đổi. Bạn có thể dễ dàng thay đổi chủ đề để dùng thử.
 
-Some themes allow you to configure colours, but usually if you want to change fonts, colours, or minor aspects of the design you will need to upload a custom style sheet.
+Một số chủ đề cho phép bạn định cấu hình màu sắc, nhưng thông thường nếu bạn muốn thay đổi phông chữ, màu sắc hoặc các khía cạnh nhỏ của thiết kế, bạn sẽ cần tải lên một biểu định kiểu tùy chỉnh.
 
-### Setup
-Upload a logo, enter content into the bottom of your site, and drag and drop items that you want to appear or not appear on your sidebar.
+### Cài đặt
+Tải lên biểu trưng, nhập nội dung vào cuối trang web của bạn và kéo và thả các mục mà bạn muốn xuất hiện hoặc không xuất hiện trên thanh bên.
 
-### Advanced
-Upload a custom CSS stylesheet and a favicon.
+### Nâng cao
+Tải lên CSS tùy chỉnh và biểu tượng trang web.
 
-## <a name="setup"></a>Setup
+## <a name="setup"></a>Cài đặt
 
-### Information
-You can add information about your journal for specific user groups that will appear as links on your sidebar if the **Information Block** is enabled under **Sidebar Management**.
+### Thông tin
+Bạn có thể thêm thông tin về tạp chí của mình cho các nhóm người dùng cụ thể sẽ xuất hiện dưới dạng liên kết trên thanh bên của bạn nếu **Khối thông tin** được bật trong **Quản lý thanh bên**.
 
-### Languages
-Languages that have been installed on your site by an Administrator can be enabled for the user interface (UI), forms, and submissions.
-* If you check off **UI** for a language, the front and back end interface will be available in that language
-* If you check off **Forms**, you will be able to fill in any forms or fields in the back end dashboard with content in that language
-* If you check off **Submissions**, users will be able to make a submission in that language and submit metadata in that language
-* **Primary Locale** is the language that your site will appear in first to users. If you have other languages enabled for the **User Interface** the user can select another language with the language toggle.
+### Ngôn ngữ
+Các ngôn ngữ đã được Quản trị viên cài đặt trên trang web của bạn có thể được bật cho giao diện người dùng (UI), biểu mẫu và bản đệ trình.
+* Nếu bạn chọn **UI** cho một ngôn ngữ, thì giao diện front end sẽ có sẵn bằng ngôn ngữ đó
+* Nếu bạn chọn **Biểu mẫu**, bạn sẽ có thể điền vào bất kỳ biểu mẫu hoặc trường nào trong bảng điều khiển phía sau với nội dung bằng ngôn ngữ đó
+* Nếu bạn chọn **Bài báo**, người dùng sẽ có thể gửi bằng ngôn ngữ đó và gửi siêu dữ liệu bằng ngôn ngữ đó
+* **Ngôn ngữ chính** là ngôn ngữ mà trang web của bạn sẽ xuất hiện trước tiên cho người dùng. Nếu bạn đã bật các ngôn ngữ khác cho ** Giao diện người dùng **, người dùng có thể chọn một ngôn ngữ khác bằng cách chuyển đổi ngôn ngữ.
 
-### Navigation Menus
-Edit the existing navigation menus on your website. You can add and remove items and re-order them. You can also create custom menu items that link to pages on your site or to another website or even add a new custom menu.
+### Điều hướng
+Chỉnh sửa các menu điều hướng hiện có trên trang web của bạn. Bạn có thể thêm và bớt các mục và sắp xếp lại chúng. Bạn cũng có thể tạo các mục menu tùy chỉnh liên kết đến các trang trên trang web của bạn hoặc đến một trang web khác hoặc thậm chí thêm menu tùy chỉnh mới.
 
-### Announcements
-Create announcements or announcement types to appear on your site's homepage or to be emailed to all of your readers.
+### Thông báo
+Tạo thông báo hoặc các loại thông báo để xuất hiện trên trang chủ của trang web của bạn hoặc được gửi qua email cho tất cả độc giả của bạn.
 
-## <a name="plugins"></a>Plugins
-Plugins extend functionality of OJS and allow it to interact with external tools and services. Installed plugins can be enabled and configured, or you can install additional plugins from the **Plugin Gallery**.
-
+ ## <a name="plugins"></a>Plugins
+Các plugin mở rộng chức năng của OJS và cho phép nó tương tác với các công cụ và dịch vụ bên ngoài. Bạn có thể bật và định cấu hình các plugin đã cài đặt hoặc bạn có thể cài đặt các plugin bổ sung từ **Thư viện plugin**.

@@ -1,20 +1,20 @@
-# Journal Settings
+#Cài đặt tạp chí
 
-1. [Masthead](journal-settings#masthead)
-1. [Contact](journal-settings#contact)
-1. [Sections](journal-settings#sections)
-1. [Categories](journal-settings#categories)
+1. [Tên tạp chí](journal-settings#masthead)
+1. [Liên hệ](journal-settings#contact)
+1. [Các chuyên mục](journal-settings#sections)
+1. [Thể loại](journal-settings#categories)
 
-In Journal Settings you can configure information about the journal, including editorial team, contacts, sections, and categories for published content. See [Learning OJS 3: Journal Settings](https://docs.pkp.sfu.ca/learning-ojs/en/journal-setup) for detailed instructions.
+Trong Cài đặt Tạp chí, bạn có thể định cấu hình thông tin về tạp chí, bao gồm nhóm biên tập, địa chỉ liên hệ, các phần và danh mục cho nội dung đã xuất bản.
 
-## <a name="masthead"></a>Masthead
-Under Masthead enter information about your journal. Some of the information will automatically be displayed on pages of your journal's website.
+## <a name="masthead"></a>Tên tạp chí
+Dưới tên tạp chí, nhập thông tin về tạp chí của bạn. Một số thông tin sẽ tự động được hiển thị trên các trang của trang web tạp chí của bạn.
 
-## <a name="contact"></a>Contact
-What you fill in for Contact tells users how to contact your journal. The Principal Contact is the automatic sender and receiver for some automated emails.
+## <a name="contact"></a>Liên hệ
+Những gì bạn điền cho Liên hệ cho người dùng biết cách liên hệ với tạp chí của bạn. Liên hệ chính là người gửi và nhận tự động cho một số email tự động.
 
-## <a name="sections"></a>Sections
-You can add new sections or edit the sections listed here. Authors will be asked to select a section when they make a submission, and the articles you publish can be organized into sections.
+## <a name="sections"></a>Các chuyên mục
+Bạn có thể thêm các phần mới hoặc chỉnh sửa các phần được liệt kê ở đây. Các tác giả sẽ được yêu cầu chọn một phần khi họ gửi bài và các bài báo bạn xuất bản có thể được sắp xếp thành các phần.
 
-## <a name="categories"></a>Categories
-Categories offer another way to organize and provide access to your content by theme or category. You can create and edit categories here, display them as pages on your website, and add articles to them by editing the articles' metadata.
+## <a name="categories"></a>Thể loại
+Danh mục cung cấp một cách khác để sắp xếp và cung cấp quyền truy cập vào nội dung của bạn theo chủ đề hoặc danh mục. Bạn có thể tạo và chỉnh sửa các danh mục tại đây, hiển thị chúng dưới dạng các trang trên trang web của bạn và thêm các bài viết vào chúng bằng cách chỉnh sửa siêu dữ liệu của bài báo.

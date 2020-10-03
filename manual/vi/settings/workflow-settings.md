@@ -1,51 +1,50 @@
-# Workflow Setings
+# Cài đặt quy trình làm việc
 
-1. [Submission](workflow-settings#submission)
-1. [Review](workflow-settings#review)
-1. [Publisher Library](workflow-settings#publisher)
+1. [Gửi bài báo](workflow-settings#submission)
+1. [Phản biên](workflow-settings#review)
+1. [Thư viện nhà xuất bản](workflow-settings#publisher)
 1. [Emails](workflow-settings#emails)
 
-Configure all aspects of the [Editorial Workflow](../editorial-workflow), including file management, submission guidelines and requirements, peer review deadlines and guidelines, email notifications, and much more. See [Learning OJS 3 Workflow Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-workflow) for detailed instructions.
+Định cấu hình tất cả các khía cạnh của [Quy trình biên tập](../editorial-workflow), bao gồm quản lý tệp, hướng dẫn và yêu cầu gửi, thời hạn và nguyên tắc đánh giá ngang hàng, thông báo qua email, v.v.
 
-## <a name="submission"></a>Submission
-The Submission tab determines what information authors provide or agree to when they make a submission.
+## <a name="submission"></a>Gửi bài báo
+Tab gửi bài báo xác định thông tin mà tác giả cung cấp hoặc đồng ý khi họ gửi.
 
-### Metadata
-If you Enable a metadata field it will be available for each submission. Checking **Submission Form** will allow authors to add it when they make a submission. Otherwise only an editor will be able to add it.
+### Dữ liệu
+Nếu bạn Bật trường siêu dữ liệu, trường đó sẽ có sẵn cho mỗi lần gửi. Kiểm tra **Mẫu gửi bài báo** sẽ cho phép tác giả thêm nó khi họ gửi. Nếu không, chỉ có người chỉnh sửa mới có thể thêm nó.
 
-### Components
-Components are types of files that can be included with a submission.  You can add new components or edit or delete the default components. Components can be configured as supplementary or dependent, which determines how or whether they are published.
+### Thành phần
+Các thành phần là các loại tệp có thể được bao gồm trong một bài nộp. Bạn có thể thêm các thành phần mới hoặc chỉnh sửa hoặc xóa các thành phần mặc định. Các thành phần có thể được định cấu hình là bổ sung hoặc phụ thuộc, xác định cách thức hoặc liệu chúng được xuất bản hay không.
 
-### Checklist
-Provide authors with a checklist of tasks they should complete before completing their submission. This is a good place to indicate requirements for referencing, font size, line spacing, document format, and more.
+### Danh mục
+Cung cấp cho tác giả một danh sách kiểm tra các nhiệm vụ mà họ phải hoàn thành trước khi hoàn thành bài nộp của mình. Đây là một nơi tốt để chỉ ra các yêu cầu đối với tham chiếu, cỡ chữ, khoảng cách dòng, định dạng tài liệu và hơn thế nữa.
 
-### Author Guidelines
-Author Guidelines will be shown to authors when they make a submission.
+### Hướng dẫn dành cho tác giả
+Nguyên tắc về tác giả sẽ được hiển thị cho tác giả khi họ gửi bài.
 
-## <a name="review"></a>Review
-Set all of your review policies and procedures, including deadlines, notifications, reviewer guidelines, and more.
+## <a name="review"></a>Phản biên
 
-### Setup
-Choose the review mode that should be used by default. The mode can be changed on a per-submission and per-review basis by an editor.
+Đặt tất cả các chính sách và thủ tục đánh giá của bạn, bao gồm thời hạn, thông báo, nguyên tắc dành cho người đánh giá, v.v.
+### Cài đặt
+Chọn chế độ xem xét sẽ được sử dụng theo mặc định. Chế độ có thể được thay đổi trên cơ sở mỗi lần gửi và mỗi lần đánh giá bởi một biên tập viên.
+- Một bài đánh giá **Kín ở cả 2 bên** sẽ ngăn người đánh giá và tác giả biết danh tính của nhau.
+- Một đánh giá **Kín** sẽ ngăn tác giả biết danh tính của người đánh giá.
+- Một bài đánh giá **Mở** sẽ cho phép người đánh giá và tác giả biết danh tính của nhau
 
-- A **Double-Blind** review will prevent the reviewer and the author from knowing each other's identities
-- A **Blind** review will prevent the author from knowing the reviewer's identity
-- An **Open** review will allow the reviewer and author to know each other's identities
+Nếu bạn **Bật quyền truy cập người đánh giá bằng một cú nhấp chuột** thì email mời người đánh giá sẽ chứa một URL đặc biệt đưa những người đánh giá được mời đến thẳng trang Đánh giá để gửi mà không yêu cầu họ đăng nhập. Vì lý do bảo mật, với tùy chọn này, người chỉnh sửa không thể sửa đổi địa chỉ email hoặc thêm CC hoặc BCC trước khi gửi lời mời đến người đánh giá.
 
-If you **Enable one-click reviewer access** the email invitation to reviewers will contain a special URL that takes invited reviewers directly to the Review page for the submission without requiring them to log in. For security reasons, with this option, editors are not able to modify email addresses or add CCs or BCCs prior to sending invitations to reviewers.
+### Hướng dẫn người đánh giá
+Cung cấp cho người đánh giá các tiêu chí để đánh giá tính phù hợp của bài nộp để xuất bản trên tạp chí, có thể bao gồm các hướng dẫn chuẩn bị đánh giá hiệu quả và hữu ích. Người phản biện sẽ có cơ hội cung cấp các nhận xét dành cho tác giả và biên tập viên, cũng như các nhận xét riêng biệt chỉ dành cho biên tập viên.
 
-### Reviewer Guidance
-Provide reviewers with criteria for judging a submission's suitability for publication in the journal, which may include instructions for preparing an effective and helpful review. Reviewers will have an opportunity to provide comments intended for the author and editor, as well as separate comments only for the editor.
+### Biểu mẫu phản biện
+Nếu bạn muốn yêu cầu thông tin cụ thể từ người đánh giá, bạn có thể xây dựng biểu mẫu tại đây. Người biên tập sẽ có thể chọn một biểu mẫu khi chỉ định người đánh giá và người đánh giá sẽ được yêu cầu hoàn thành biểu mẫu đó khi họ đang gửi đánh giá của mình.
 
-### Review Forms
-If you would like to request specific information from reviewers, you can build forms here. An editor will be able to select a form when assigning a reviewer, and the reviewer will be asked to complete that form when they are submitting their review.
+## <a name="publisher"></a>Thư viện nhà xuất bản
+Thư viện nhà xuất bản cung cấp một kho tệp để lưu trữ và chia sẻ nhanh chóng các tệp chung, chẳng hạn như hướng dẫn viết, hợp đồng tác giả và biểu mẫu phát hành cũng như tài liệu tiếp thị.
 
-## <a name="publisher"></a>Publisher Library
-The Publisher Library provides a file repository for storing and quickly sharing common files, such as writing guidelines, author contracts and release forms, and marketing materials.
-
-Items that are stored in the Publisher Library can be quickly retrieved and added into a [Submission Library](../editorial-workflow#submission-library) to be shared with authors or assistants.
+Các mục được lưu trữ trong Thư viện nhà xuất bản có thể nhanh chóng được truy xuất và thêm vào [Thư viện bài báo](../editor-workflow#submit-library) để chia sẻ với tác giả hoặc trợ lý.
 
 ## <a name="emails"></a>Emails
-OJS sends a number of emails during various stages of the [Editorial Workflow](../editorial-workflow) as well as other actions such as registration and submission acknowledgement. The settings in this section allow you to edit the signature attached to each email as well as change the default messages sent for each type of email.
+OJS gửi một số email trong các giai đoạn khác nhau của [Quy trình biên tập](../editorial-workflow) cũng như các hành động khác như đăng ký và xác nhận gửi. Cài đặt trong phần này cho phép bạn chỉnh sửa chữ ký đính kèm trong mỗi email cũng như thay đổi các thông báo mặc định được gửi cho từng loại email.
 
-You can view a description of each email and edit the email by clicking the dropdown arrow on the right.
+Bạn có thể xem mô tả của từng email và chỉnh sửa email bằng cách nhấp vào mũi tên thả xuống ở bên phải.
