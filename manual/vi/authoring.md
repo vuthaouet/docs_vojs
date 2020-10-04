@@ -14,14 +14,14 @@ Khi đăng nhập vào VOJS với tư cách là tác giả, bạn sẽ thấy ha
 
 *Nếu bạn đã đăng nhập nhưng không thấy giao diện biên tập, bạn có thể quay trở lại trang chủ và sẽ có một nút gửi bài tại đó.*
 
-Tạo một bài báo mới là một quy trình 5 bước dễ thực hiện. Làm theo hướng dẫn trên màn hình để hoàn tất quá trình:
+Tạo một bài báo mới là một quy trình 5 bước đơn giản. Hãy làm theo hướng dẫn trên màn hình để hoàn tất quá trình:
 
 ### <a name="start"></a>Bắt đầu
 
 1. Chọn chuyên mục phù hợp với bài báo của bạn
-1. Đọc và đồng ý với yêu cầu gửi.
-1. Thêm bất kỳ ghi chú cho biên tập viên (tùy chọn).
-1. Xem lại tuyên bố về quyền riêng tư để đảm bảo bạn đồng ý.
+1. Đọc và đồng ý với yêu cầu gửi bài.
+1. Thêm bất kỳ ghi chú cho biên tập viên (không bắt buộc).
+1. Xem lại thỏa thuận về quyền riêng tư để đảm bảo bạn đồng ý với chúng.
 
 ### <a name="upload-submission"></a>Tải lên tệp của bài gửi
 
@@ -49,7 +49,7 @@ Hãy nhớ rằng, các từ khóa của bài báo phải được nhập ngăn 
 
 ### <a name="confirmation"></a>Xác nhận
 
-Hãy dành một chút thời gian để kiểm tra các chi tiết bạn đã nhập. Tại thời điểm này, bạn có thể quay lại bất kỳ bước nào trước đó để thay đổi các nội dung bạn đã nhập.
+Hãy dành một chút thời gian để kiểm tra lại các nội dung bạn đã nhập. Tại thời điểm này, bạn có thể quay lại bất kỳ bước nào trước đó để thay đổi các nội dung bạn đã nhập.
 
 ### <a name="next-steps"></a>Bước tiếp theo
 
@@ -63,7 +63,7 @@ Tại đây, bạn sẽ thấy các bài nộp của mình được liệt kê v
 
 ### <a name="track-submission-discussions"></a>Bảng thảo luận
 
-Trong mỗi giai đoạn, bạn sẽ có quyền truy cập vào một khu vực thảo luận hay phiên phản biện. Nếu một biên tập viên hoặc trợ lý biên tập cần thêm thông tin từ bạn, họ sẽ có thể mở một cuộc thảo luận. Khi điều đó xảy ra, bạn sẽ được thông báo qua email để bạn có thể trả lời.
+Trong mỗi giai đoạn, bạn sẽ có quyền truy cập vào khu vực thảo luận hay phiên phản biện. Nếu một biên tập viên hoặc trợ lý biên tập cần thêm thông tin từ bạn, họ sẽ có thể mở một cuộc thảo luận. Khi đó, bạn sẽ được thông báo qua e-mail để trả lời.
 
 *Bạn sẽ không thể bắt đầu thảo luận trên hầu hết các giai đoạn, nhưng chúng sẽ xuất hiện nếu một giai đoạn đã được người biên tập bắt đầu.*
 

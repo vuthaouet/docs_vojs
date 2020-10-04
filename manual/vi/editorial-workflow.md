@@ -18,11 +18,11 @@ Phần Siêu dữ liệu bao gồm hai tab: Bài gửi và Số nhận dạng.
 
 Nội dung gửi bao gồm siêu dữ liệu gửi, chẳng hạn như tiêu đề bài viết, tóm tắt, các tác giả, trích dẫn và từ khóa.
 
-Nhận dạng cung cấp không gian để thêm bất kỳ số nhận dạng về URL công khai nào.
+Định danh cung cấp một nơi để thêm bất kỳ số định danh về URL công khai nào.
 
 ### <a name="editorial-history"></a>Lịch sử
 
-Thêm ghi chú để lưu trữ hồ sơ và xem nhật ký của tất cả các sự kiện liên quan đến bài nộp này. Chỉ các nhân viên biên tập và quản lý mới có quyền truy cập vào lịch sử biên tập
+Thêm các ghi chú cho việc lưu trữ hồ sơ và xem nhật ký của tất cả các sự kiện liên quan đến bài nộp này. Chỉ các nhân viên biên tập và quản lý mới có quyền truy cập vào lịch sử biên tập
 
 ### <a name="submission-library"></a>Thư viện
 
@@ -37,6 +37,6 @@ Bạn có thể nhanh chóng thêm tệp từ [Thư viện nhà xuất bản](se
 ## <a name="participants"></a>Những người tham gia
 
 Ở bên phải mỗi giai đoạn của quy trình làm việc, bạn sẽ tìm thấy danh sách những người dùng có quyền truy cập vào giai đoạn này. Bạn có thể thêm trợ lý biên tập, biên tập viên, người chỉnh sửa bố cục hoặc những người dùng khác mà bạn muốn có quyền truy cập vào giai đoạn hiện tại.
-*Khi bạn thêm người dùng, người dùng đó sẽ có quyền truy cập vào bất kỳ giai đoạn nào được vai trò người dùng của họ cho phép*. Ví dụ: một Biên tập viên được thêm vào lưới Người tham gia sẽ có quyền truy cập vào mọi giai đoạn. Nhưng biên tập viên sẽ chỉ có quyền truy cập vào giai đoạn Copyediting.
+*Khi bạn thêm người dùng, người dùng đó sẽ có quyền truy cập vào bất kỳ giai đoạn nào mà vai trò người dùng của họ được cho phép*. Ví dụ: một Biên tập viên được thêm vào lưới Người tham gia sẽ có quyền truy cập vào mọi giai đoạn. Nhưng biên tập viên sẽ chỉ có quyền truy cập vào giai đoạn Copyediting.
 
-*Bạn sẽ không cần thêm người phản biện vào bảng Người tham gia.* Khi bạn đến [giai đoạn đánh giá](editorial-workflow/review), bạn sẽ có thể quản lý người phản biện trong một bảng thuận tiện hơn.
+*Bạn sẽ không cần thêm người phản biện vào bảng Người tham gia.* Khi bạn đến [giai đoạn đánh giá](editorial-workflow/review), bạn sẽ có thể quản lý những người phản biện trong một bảng thuận tiện hơn.

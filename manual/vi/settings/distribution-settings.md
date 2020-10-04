@@ -6,10 +6,10 @@
 4. [Truy cập](distribution-settings#access)
 5. [Lưu trữ](distribution-settings#archiving)
 
-Trong Cài đặt Phân phối, bạn có thể định cấu hình cách người dùng truy cập, khám phá và sử dụng nội dung tạp chí của bạn.
+Trong Cài đặt Phân phối, bạn có thể cấu hình cách người dùng truy cập, khám phá và sử dụng nội dung tạp chí của bạn.
 
 ## <a name="license"></a>Giấy phép
-Tại đây bạn có thể định cấu hình bản quyền và quyền ở cấp tạp chí. Bạn cũng có thể nhập thông tin bản quyền và quyền đối với một bài báo và cấp độ vấn đề khi bạn xuất bản các bài báo và số báo.
+Tại đây bạn có thể cấu hình bản quyền và quyền ở cấp tạp chí. Bạn cũng có thể nhập thông tin bản quyền và quyền đối với một bài báo và cấp độ vấn đề khi bạn xuất bản các bài báo và số báo.
 
 **Bản quyền** xác định tác giả hoặc chủ sở hữu bản quyền của một tác phẩm đã xuất bản. Ví dụ, Bản quyền (c) 2016 của Jane Smith.
 

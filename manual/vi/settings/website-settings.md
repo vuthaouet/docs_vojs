@@ -4,7 +4,7 @@
 1. [Cài đặt](website-settings#setup)
 1. [Plugins](website-settings#plugins)
 
-Trong Cài đặt Trang web, bạn có thể định cấu hình giao diện và thông tin trên trang web hướng tới người đọc, thiết lập ngôn ngữ và cài đặt lưu trữ của trang web, cài đặt và bật các plugin.
+Trong Cài đặt Trang web, bạn có thể cấu hình giao diện và thông tin trên trang web hướng tới người đọc, thiết lập ngôn ngữ và cài đặt lưu trữ của trang web, cài đặt và bật các plugin.
 
 ## <a name="appearance"></a>Giao diện
 Tại đây, bạn có thể thay đổi giao diện của trang web tạp chí của mình, bao gồm tải lên hình ảnh và chọn một chủ đề.
@@ -12,7 +12,7 @@ Tại đây, bạn có thể thay đổi giao diện của trang web tạp chí 
 ### chủ đề
 Để thay đổi thiết kế tổng thể của trang web của bạn, hãy chọn một chủ đề khác và lưu. Giao diện của trang web sẽ giữ nguyên nhưng nội dung sẽ không thay đổi. Bạn có thể dễ dàng thay đổi chủ đề để dùng thử.
 
-Một số chủ đề cho phép bạn định cấu hình màu sắc, nhưng thông thường nếu bạn muốn thay đổi phông chữ, màu sắc hoặc các khía cạnh nhỏ của thiết kế, bạn sẽ cần tải lên một biểu định kiểu tùy chỉnh.
+Một số chủ đề cho phép bạn cấu hình màu sắc, nhưng thông thường nếu bạn muốn thay đổi phông chữ, màu sắc hoặc các khía cạnh nhỏ của thiết kế, bạn sẽ cần tải lên một biểu định kiểu tùy chỉnh.
 
 ### Cài đặt
 Tải lên biểu trưng, nhập nội dung vào cuối trang web của bạn và kéo và thả các mục mà bạn muốn xuất hiện hoặc không xuất hiện trên thanh bên.
@@ -36,7 +36,7 @@ Các ngôn ngữ đã được Quản trị viên cài đặt trên trang web c�
 Chỉnh sửa các menu điều hướng hiện có trên trang web của bạn. Bạn có thể thêm và bớt các mục và sắp xếp lại chúng. Bạn cũng có thể tạo các mục menu tùy chỉnh liên kết đến các trang trên trang web của bạn hoặc đến một trang web khác hoặc thậm chí thêm menu tùy chỉnh mới.
 
 ### Thông báo
-Tạo thông báo hoặc các loại thông báo để xuất hiện trên trang chủ của trang web của bạn hoặc được gửi qua email cho tất cả độc giả của bạn.
+Tạo thông báo hoặc các loại thông báo để xuất hiện trên trang chủ của trang web của bạn hoặc được gửi qua e-mail cho tất cả độc giả của bạn.
 
  ## <a name="plugins"></a>Plugins
-Các plugin mở rộng chức năng của OJS và cho phép nó tương tác với các công cụ và dịch vụ bên ngoài. Bạn có thể bật và định cấu hình các plugin đã cài đặt hoặc bạn có thể cài đặt các plugin bổ sung từ **Thư viện plugin**.
+Các plugin mở rộng chức năng của OJS và cho phép nó tương tác với các công cụ và dịch vụ bên ngoài. Bạn có thể bật và cấu hình các plugin đã cài đặt hoặc bạn có thể cài đặt các plugin bổ sung từ **Thư viện plugin**.

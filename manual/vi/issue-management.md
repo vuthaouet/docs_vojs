@@ -4,7 +4,7 @@
 1. [Số đã xuất bản](issue-management#back-issues)
 1. [Sửa một số báo](issue-management#edit-issue)
 
-Thiết lập các số báo sắp xảy ra và quản lý các số báo hiện có từ trang này.
+Thiết lập các số báo chưa xuất bản và quản lý các số báo hiện có từ trang này.
 
 Mỗi số báo được liệt kê trên các trang này có thể được mở rộng bằng cách sử dụng mũi tên nhỏ ở bên trái để hiển thị các tùy chọn.
 
@@ -12,7 +12,7 @@ Mỗi số báo được liệt kê trên các trang này có thể được m�
 
 **Xem/Xem trước** - Chuyển đến số báo trên trang web của bạn hoặc xem bản xem trước của số báo đó nếu nó chưa được xuất bản.
 
-**Xuất bản/hủy xuất bản số báo** - Xuất bản một số báo sẽ giúp hiển thị công khai trên trang web của bạn.
+**Xuất bản/hủy xuất bản số báo** - Xuất bản một số báo sẽ hiển thị công khai số báo đó trên trang web của bạn.
 
 **Xóa** - Không thể hoàn tác việc xóa số báo.
 
@@ -29,7 +29,7 @@ Xem tất cả các số báo đã xuất bản trong phần này.
 
 ## <a name="edit-issue"></a>Chỉnh sửa số báo
 
-Chi tiết số báo có thể được chỉnh sửa bao gồm mục lục, ngày xuất bản, chi tiết tiêu đề và tập. Nếu bạn đang sử dụng bất kỳ số nhận dạng công cộng nào, như DOI, chúng cũng có thể được chỉnh sửa tại đây.
+Chi tiết số báo có thể được chỉnh sửa bao gồm mục lục, ngày xuất bản, chi tiết tiêu đề và tập. Nếu bạn đang sử dụng bất kỳ số định danh công cộng nào, như DOI, chúng cũng có thể được chỉnh sửa tại đây.
 
 ### <a name="edit-issue-toc"></a>Mục lục
 
@@ -39,7 +39,7 @@ Trước khi một bài báo có thể xuất hiện ở đây, bạn cần ph�
 
 ### <a name="edit-issue-data"></a>Dữ liệu số báo
 
-Các dữ liệu chính như ngày xuất bản, tên sách, số tập và năm có thể được đặt tại đây. Nếu bạn không muốn hiển thị bất kỳ chi tiết âm lượng nào trên trang web của mình, bạn có thể bỏ chọn các hộp kiểm xuất hiện ở đây.
+Các dữ liệu chính như ngày xuất bản, tên sách, số tập và năm có thể được đặt tại đây. Nếu bạn không muốn hiển thị bất kỳ chi tiết Tập nào trên trang web của mình, bạn có thể bỏ chọn các hộp kiểm xuất hiện ở đây.
 
 Nếu muốn, bạn cũng có thể cung cấp cho mỗi số báo một mô tả và ảnh bìa.
 
@@ -49,8 +49,8 @@ Một số tạp chí có thể muốn xuất bản một bản mềm toàn bộ
 
 ### <a name="edit-issue-identifiers"></a>Định danh
 
-"Số nhận dạng URL công khai" là một slug văn bản được sử dụng trong URL cho số báo này. Theo mặc định, các số báo được cung cấp một URL dựa trên ID số của chúng. Nhưng bạn có thể muốn đặt cho chúng những cái tên mà con người có thể đọc được, chẳng hạn như "50th-anniversary-issue", tạo ra các URL đẹp hơn.
+"Số nhận dạng URL công khai" là một slug văn bản được sử dụng trong URL cho số báo này. Theo mặc định, các số báo được cung cấp một URL dựa trên ID số của chúng. Tuy nhiên, bạn cũng đặt những cái tên mà con người dễ đọc, chẳng hạn như "50th-anniversary-issue", để tạo ra các URL đẹp hơn.
 
 Nếu bạn đã kích hoạt bổ sung các plugin ID công khai, bạn sẽ thấy chúng ở đây nếu chúng hỗ trợ phát hành ID công khai.
 
-ID công khai phổ biến nhất là [DOI](https://www.doi.org/). Nếu bạn đã định cấu hình plugin này để sử dụng DOI cho các sự cố, bạn sẽ có thể xem trước và chỉ định DOI tại đây.
+ID công khai phổ biến nhất là [DOI](https://www.doi.org/). Nếu bạn đã cấu hình plugin này để sử dụng DOI cho các số báo, bạn sẽ có thể xem và gán DOI tại đây.
