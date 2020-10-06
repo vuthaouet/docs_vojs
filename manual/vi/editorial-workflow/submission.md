@@ -1,4 +1,4 @@
-#Bài báo
+#Gửi bài báo
 
 1. Giới thiệu
 1. [Hoạt động biên tập](submission#editorial-actions)
