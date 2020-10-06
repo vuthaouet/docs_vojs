@@ -1,22 +1,22 @@
-# Submission Stage
+#Bài báo
 
-1. Introduction
-1. [Editorial Actions](submission#editorial-actions)
+1. Giới thiệu
+1. [Hoạt động biên tập](submission#editorial-actions)
 
-During the Submission stage, the editor checks the submission files to decide whether it should begin the peer review process.
+Trong giai đoạn gửi bài báo, biên tập viên kiểm tra các tệp gửi để quyết định xem nó có nên bắt đầu quy trình đánh giá ngang hàng hay không.
 
-The editor can assign a sub-editor to assist by using the **Participants** panel or open up a discussion with the author to answer any questions or concerns in the **Pre-Review Discussions** panel.
+Người biên tập có thể chỉ định một biên tập viên phụ để hỗ trợ bằng cách sử dụng bảng **Người tham gia** hoặc mở cuộc thảo luận với tác giả để trả lời bất kỳ câu hỏi hoặc thắc mắc nào trong bảng **Các cuộc thảo luận trước khi đánh giá**.
 
-## <a name="editorial-actions"></a>Editorial Actions
+## <a name="editorial-actions"></a>Hoạt động biên tập
 
-### Send to Review
+### Gửi đến phản biện
 
-Send the submission on to the [Review stage](review), where it will be reviewed by peer reviewers.
+Gửi bài gửi đến [Giai đoạn phản biện](review), nơi nó sẽ được xem xét bởi những người đánh giá.
 
-### Send to Copyediting
+### Gửi đến biên tập
 
-Send the submission forward to the [Copyediting stage](copyediting) if you'd like to skip the peer review process completely.
+Chuyển bài gửi tới [Giai đoạn biên tập](copyediting)  nếu bạn muốn bỏ qua hoàn toàn quy trình đánh giá.
 
-### Decline Submission
+###Từ chối bài báo
 
-Remove the submission from consideration and archive it.
+Xóa nội dung gửi để xem xét và lưu trữ nó.

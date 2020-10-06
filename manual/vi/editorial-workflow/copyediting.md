@@ -1,43 +1,43 @@
-# Copyediting
+#Biên tập
 
-1. [Orientation](copyediting#orientation)
-1. [Editorial Actions](copyediting#editorial-actions)
+1. [Sự định hướng](copyediting#orientation)
+1. [Hành động biên tập](copyediting#editorial-actions)
 
-During the Copyediting stage, the editor assigns a copyeditor to edit the submission files.
+Trong giai đoạn biên tập, biên tập viên sẽ chỉ định người biên tập viên chỉnh sửa để chỉnh sửa các tệp gửi.
 
-The copyeditor, who is often a professional, will align the writing style with your editorial guidelines, improve the quality and clarity of the writing, fix any grammar, and get the submission ready for conversion to a [publication format](production).
+Biên tập viên chỉnh sửa, thường là một người chuyên nghiệp, sẽ điều chỉnh phong cách viết phù hợp với hướng dẫn biên tập của bạn, cải thiện chất lượng và độ rõ ràng của bài viết, sửa lỗi ngữ pháp và chuẩn bị sẵn sàng để chuyển đổi sang [định dạng xuất bản](production).
 
-This is the last stage before you generate publication-ready formats such as PDFs and ePubs. If you do not have the resources to hire a professional copyeditor, use this stage to take a close look at the material, check any facts, correct any errors, and communicate with the author to clarify any points of confusion.
 
-Add copyeditors from the [participants panel](../editorial-workflow#participants).
-For more detailed information, see [Learning OJS 3: Copyediting](https://docs.pkp.sfu.ca/learning-ojs/en/editorial-workflow#copyediting).
+Đây là giai đoạn cuối cùng trước khi bạn tạo các định dạng sẵn sàng xuất bản như PDF và ePub. Nếu bạn không có đủ nguồn lực để thuê biên tập viên chỉnh sửa chuyên nghiệp, hãy sử dụng giai đoạn này để xem xét kỹ lưỡng tài liệu, kiểm tra mọi sự kiện, sửa bất kỳ lỗi nào và trao đổi với tác giả để làm rõ bất kỳ điểm nhầm lẫn nào.
 
-## <a name="orientation"></a>Orientation
+Thêm biên tập viên chỉnh sửa từ [bảng điều khiển người tham gia](../editorial-workflow#participants).
 
-The Copyediting stage provides three panels for managing the copyediting process.
+## <a name="orientation"></a>Sự định hướng
 
-### <a name="draft-files"></a>Draft Files
+Giai đoạn biên tập cung cấp ba bảng để quản lý quá trình biên tập.
 
-All files selected by the editor for copyediting. These are typically files that have been revised as a result of the review process.
+### <a name="draft-files"></a>Tệp nháp
 
-### <a name="copyediting-discussions"></a>Copyediting Discussions
+Tất cả các tệp được trình chỉnh sửa chọn để biên tập. Đây thường là các tệp đã được sửa đổi do quá trình xem xét.
 
-Editors and copyeditors can use this panel to initiate discussions with the author(s) or communicate among themselves. This can be used to clarify points of confusion, request further information from the author, or request approval for any changes.
+### <a name="copyediting-discussions"></a>Các cuộc thảo luận biên tập
 
-### <a name="copyedited"></a>Copyedited
+Biên tập viên và biên tập viên chỉnh sửa có thể sử dụng bảng điều khiển này để bắt đầu thảo luận với (các) tác giả hoặc trao đổi với nhau. Điều này có thể được sử dụng để làm rõ những điểm nhầm lẫn, yêu cầu thêm thông tin từ tác giả hoặc yêu cầu chấp thuận cho bất kỳ thay đổi nào.
 
-Copyeditors can upload final edited files to this panel. These should be completed files that are ready to be [sent to production](copyediting#editorial-actions).
+### <a name="copyedited"></a>Đã biên tập
 
-*Editors can upload files here, too.*
+Biên tập viên chỉnh sửa có thể tải các tệp đã chỉnh sửa cuối cùng lên bảng điều khiển này. Đây phải là các tệp đã hoàn chỉnh và sẵn sàng [gửi đi xuất bản](copyediting#editorial-actions).
 
-### <a name="participants"></a>Participants
+*Người chỉnh sửa cũng có thể tải tệp lên tại đây.*
 
-Editors can add copyeditors from this panel. [Learn more](../editorial-workflow#participants).
+### <a name="participants"></a>Những người tham gia
 
-## <a name="editorial-actions"></a>Editorial Actions
+Biên tập viên có thể thêm biên tập viên chỉnh sửa từ bảng điều khiển này. [Tìm hiểu thêm](../editorial-workflow#participants).
 
-There's only one editorial decision available to editors at this stage. If you decide to decline a submission at this late stage, you can do so by going back to a previous stage.
+## <a name="editorial-actions"></a>Hành động biên tập
 
-### <a name="production"></a>Send to Production
+Chỉ có một quyết định biên tập cho các biên tập viên ở giai đoạn này. Nếu bạn quyết định từ chối gửi ở giai đoạn cuối này, bạn có thể làm như vậy bằng cách quay lại giai đoạn trước.
 
-The editor can send the submission to the [Production stage](production) when final copyedited files are ready. Any files in the [Copyedited](copyediting#copyedited) panel will automatically be forwarded unless the editor chooses not to send them.
+### <a name="production"></a>Gửi đi xuất bản
+
+Biên tập viên chỉnh sửa có thể gửi bài gửi đến [Giai đoạn sản xuất](production) khi các tệp được biên tập cuối cùng đã sẵn sàng. Mọi tệp trong bảng [Đã biên tập](copyediting#copyedited) sẽ tự động được chuyển tiếp trừ khi biên tập viên chỉnh sửa chọn không gửi chúng.
